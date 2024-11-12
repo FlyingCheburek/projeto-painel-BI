@@ -1,0 +1,1276 @@
+Companhia;Produto;Tipo;Polegadas;RAM;SO;Peso;Preco_euros;Tela;Tela_largura;Tela_altura;Touchscreen;Painel_IPS;Display_retina;Fabricante_CPU;Freq_CPU;Modelo_CPU;Armazen_prim;Armazen_sec;Tipo_armazen_prim;Tipo_armazen_sec;Fabricante_GPU;Modelo_GPU
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;1339,69;Padrão;2560;1600;Não;Sim;Sim;Intel;2,30;Core i5;128;0;SSD;Não;Intel;Iris Plus Graphics 640
+Apple;Macbook Air;Ultrabook;13,3;8;macOS;1,34;898,94;Padrão;1440;900;Não;Não;Não;Intel;1,80;Core i5;128;0;Flash Storage;Não;Intel;HD Graphics 6000
+HP;250 G6;Notebook;15,6;8;Sem SO;1,86;575,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Apple;MacBook Pro;Ultrabook;15,4;16;macOS;1,83;2537,45;Padrão;2880;1800;Não;Sim;Sim;Intel;2,70;Core i7;512;0;SSD;Não;AMD;Radeon Pro 455
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;1803,60;Padrão;2560;1600;Não;Sim;Sim;Intel;3,10;Core i5;256;0;SSD;Não;Intel;Iris Plus Graphics 650
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;400,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;500;0;HDD;Não;AMD;Radeon R5
+Apple;MacBook Pro;Ultrabook;15,4;16;Mac OS X;2,04;2139,97;Padrão;2880;1800;Não;Sim;Sim;Intel;2,20;Core i7;256;0;Flash Storage;Não;Intel;Iris Pro Graphics
+Apple;Macbook Air;Ultrabook;13,3;8;macOS;1,34;1158,70;Padrão;1440;900;Não;Não;Não;Intel;1,80;Core i5;256;0;Flash Storage;Não;Intel;HD Graphics 6000
+Asus;ZenBook UX430UN;Ultrabook;14,0;16;Windows 10;1,30;1495,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Nvidia;GeForce MX150
+Acer;Swift 3;Ultrabook;14,0;8;Windows 10;1,60;770,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;393,90;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;344,99;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Apple;MacBook Pro;Ultrabook;15,4;16;macOS;1,83;2439,97;Padrão;2880;1800;Não;Sim;Sim;Intel;2,80;Core i7;256;0;SSD;Não;AMD;Radeon Pro 555
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,20;498,90;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;AMD;Radeon R5 M430
+Apple;"MacBook 12""";Ultrabook;12,0;8;macOS;0,92;1262,40;Padrão;2304;1440;Não;Sim;Sim;Intel;1,20;Core M m3;256;0;SSD;Não;Intel;HD Graphics 615
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;1518,55;Padrão;2560;1600;Não;Sim;Sim;Intel;2,30;Core i5;256;0;SSD;Não;Intel;Iris Plus Graphics 640
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,20;745,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R5 M430
+Apple;MacBook Pro;Ultrabook;15,4;16;macOS;1,83;2858,00;Padrão;2880;1800;Não;Sim;Sim;Intel;2,90;Core i7;512;0;SSD;Não;AMD;Radeon Pro 560
+Lenovo;IdeaPad 320-15IKB;Notebook;15,6;8;Sem SO;2,20;499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,22;979,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,60;Core i5 8250U;128;0;SSD;Não;Intel;UHD Graphics 620
+Asus;Vivobook E200HA;Netbook;11,6;2;Windows 10;0,98;191,90;Padrão;1366;768;Não;Não;Não;Intel;1,44;Atom x5-Z8350;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;999,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;255 G6;Notebook;15,6;4;Sem SO;1,86;258,00;Padrão;1366;768;Não;Não;Não;AMD;1,50;E-Series E2-9000e;500;0;HDD;Não;AMD;Radeon R2
+Dell;Inspiron 5379;Conversível 2 em 1;13,3;8;Windows 10;1,62;819,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;15-BS101nv (i7-8550U/8GB/256GB/FHD/W10);Ultrabook;15,6;8;Windows 10;1,91;659,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,30;418,64;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Apple;MacBook Air;Ultrabook;13,3;8;Mac OS X;1,35;1099,00;Padrão;1440;900;Não;Não;Não;Intel;1,60;Core i5;128;0;Flash Storage;Não;Intel;HD Graphics 6000
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;800,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 530
+Dell;Latitude 5590;Ultrabook;15,6;8;Windows 10;1,88;1298,00;Full HD;1920;1080;Não;Não;Não;Intel;1,90;Core i7 8650U;256;256;SSD;SSD;Intel;UHD Graphics 620
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,50;896,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Chuwi;"LapBook 15.6""";Notebook;15,6;4;Windows 10;1,89;244,99;Full HD;1920;1080;Não;Não;Não;Intel;1,44;Atom x5-Z8300;64;0;Flash Storage;Não;Intel;HD Graphics
+Asus;E402WA-GA010T (E2-6110/2GB/32GB/W10);Notebook;14,0;2;Windows 10;1,65;199,00;Padrão;1366;768;Não;Não;Não;AMD;1,50;E-Series E2-6110;32;0;Flash Storage;Não;AMD;Radeon R2
+HP;17-ak001nv (A6-9220/4GB/500GB/Radeon;Notebook;17,3;4;Windows 10;2,71;439,00;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A6-Series 9220;500;0;HDD;Não;AMD;Radeon 530
+Dell;XPS 13;Ultrabook;13,3;16;Windows 10;1,20;1869,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Apple;MacBook Air;Ultrabook;13,3;8;Mac OS X;1,35;998,00;Padrão;1440;900;Não;Não;Não;Intel;1,60;Core i5;256;0;Flash Storage;Não;Intel;HD Graphics 6000
+Lenovo;IdeaPad 120S-14IAP;Notebook;14,0;4;Windows 10;1,44;249,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;64;0;Flash Storage;Não;Intel;HD Graphics 500
+Acer;Aspire 3;Notebook;15,6;4;Linux;2,10;367,00;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i3 7130U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5770;Notebook;17,3;8;Windows 10;2,80;979,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;AMD;Radeon 530
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;488,69;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,10;879,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce 930MX 
+Asus;X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux);Notebook;15,6;4;Linux;2,00;389,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7577;Gaming;15,6;16;Windows 10;2,65;1499,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Asus;X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce;Notebook;15,6;8;Linux;2,30;522,99;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Acer;Aspire A515-51G;Notebook;15,6;4;Windows 10;2,20;682,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 7773;Conversível 2 em 1;17,3;12;Windows 10;2,77;999,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Nvidia;GeForce 150MX
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;1419,00;Padrão;2560;1600;Não;Sim;Sim;Intel;2,00;Core i5;256;0;SSD;Não;Intel;Iris Graphics 540
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;4;Sem SO;2,20;369,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;Rog Strix;Gaming;17,3;8;Windows 10;3,20;1299,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;Ryzen 1700;256;1024;SSD;HDD;AMD;Radeon RX 580
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,30;639,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon R5 M430
+Asus;X751NV-TY001T (N4200/4GB/1TB/GeForce;Notebook;17,3;4;Windows 10;2,80;466,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Lenovo;Yoga Book;Conversível 2 em 1;10,1;4;Android;0,69;319,00;Padrão;1920;1200;Sim;Sim;Não;Intel;1,44;Atom x5-Z8550;64;0;Flash Storage;Não;Intel;HD Graphics 400
+Acer;Aspire A515-51G;Notebook;15,6;8;Windows 10;2,20;841,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce MX150
+HP;255 G6;Notebook;15,6;4;Windows 10;1,86;398,49;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A6-Series 9220;256;0;SSD;Não;AMD;Radeon R4 Graphics
+HP;ProBook 430;Notebook;13,3;8;Windows 10;1,49;1103,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,40;384,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 3576;Notebook;15,6;8;Windows 10;2,13;767,80;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 520
+HP;15-bs002nv (i3-6006U/4GB/128GB/FHD/W10);Notebook;15,6;4;Windows 10;1,91;439,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;VivoBook Max;Notebook;15,6;4;Windows 10;2,00;586,19;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+MSI;GS73VR 7RG;Gaming;17,3;16;Windows 10;2,43;2449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;2048;SSD;HDD;Nvidia;GeForce GTX 1070
+Asus;X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux);Notebook;15,6;4;Linux;2,00;415,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5770;Notebook;17,3;16;Windows 10;2,80;1299,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+Dell;Vostro 5471;Ultrabook;14,0;8;Windows 10;1,70;879,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;IdeaPad 520S-14IKB;Notebook;14,0;8;Sem SO;1,70;599,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i3 7130U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10);Notebook;14,0;8;Windows 10;1,40;941,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;250 G6;Notebook;15,6;8;Windows 10;1,86;690,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ZenBook Pro;Ultrabook;15,6;16;Windows 10;1,80;1983,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;438,69;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;AMD;Radeon 520
+HP;Stream 14-AX040wm;Notebook;14,0;4;Windows 10;1,44;229,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;SSD;Não;Intel;HD Graphics 400
+Lenovo;V310-15ISK (i5-7200U/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;1,90;549,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce;Gaming;17,3;12;Linux;3,00;949,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050 Ti
+Microsoft;Surface Laptop;Ultrabook;13,5;4;Windows 10 S;1252,00;1089,00;Padrão;2256;1504;Sim;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5370;Ultrabook;13,3;8;Windows 10;1,40;955,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 530
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;870,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 530
+MSI;GL72M 7RDX;Gaming;17,3;8;Windows 10;2,70;1095,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Acer;Aspire E5-475;Notebook;14,0;8;Windows 10;2,10;389,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Asus;FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce;Gaming;15,6;8;Windows 10;2,20;949,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;8;Sem SO;2,20;519,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;2048;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,02;855,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;Intel;UHD Graphics 620
+Acer;Aspire A515-51G-32MX;Notebook;15,6;4;Windows 10;2,20;530,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i3 7130U;1024;0;HDD;Não;Nvidia;GeForce MX130
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,50;977,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;Nvidia;GeForce 930MX
+Dell;Latitude 5590;Ultrabook;15,6;8;Windows 10;1,88;1096,16;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Apple;"MacBook 12""";Ultrabook;12,0;8;macOS;0,92;1510,00;Padrão;2304;1440;Não;Sim;Sim;Intel;1,30;Core i5;512;0;SSD;Não;Intel;HD Graphics 615
+HP;ProBook 440;Notebook;14,0;8;Windows 10;1,63;860,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15AST;Notebook;15,6;4;Windows 10;2,20;399,00;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A6-Series 9220;128;0;SSD;Não;AMD;R4 Graphics
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;395,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon R5
+Dell;Inspiron 7577;Gaming;15,6;16;Windows 10;2,65;1349,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+HP;Pavilion 15-CK000nv;Ultrabook;15,6;8;Windows 10;1,83;699,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce GTX 940MX
+HP;250 G6;Notebook;15,6;8;Windows 10;1,96;598,99;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;FX503VM-E4007T (i7-7700HQ/16GB/1TB;Gaming;15,6;16;Windows 10;2,20;1449,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,21;1649,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Asus;FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon;Gaming;15,6;8;Windows 10;2,45;699,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;FX 9830P;1024;0;HDD;Não;AMD;Radeon RX 560
+Acer;Aspire 5;Notebook;15,6;8;Windows 10;2,20;689,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Nvidia;GeForce MX150
+HP;Probook 430;Notebook;13,3;16;Windows 10;1,49;1197,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 7577;Gaming;15,6;8;Windows 10;2,65;1195,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1060
+Asus;Zenbook UX430UA;Ultrabook;14,0;8;Windows 10;1,25;1049,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Spin 5;Conversível 2 em 1;13,3;8;Windows 10;1,50;847,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 3567;Notebook;15,6;8;Linux;2,20;599,90;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Dell;Inspiron 3567;Notebook;15,6;4;Linux;2,20;485,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;AMD;Radeon R5 M430
+Asus;X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce;Notebook;15,6;6;Windows 10;2,00;577,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;256;0;SSD;Não;Nvidia;GeForce 920M
+HP;Omen 15-ce007nv;Gaming;15,6;12;Windows 10;2,62;1249,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;15-bs017nv (i7-7500U/8GB/256GB/Radeon;Notebook;15,6;8;Windows 10;1,91;719,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon 530
+HP;15-bw000nv (E2-9000e/4GB/500GB/Radeon;Notebook;15,6;4;Windows 10;2,10;349,00;Full HD;1920;1080;Não;Não;Não;AMD;1,50;E-Series E2-9000e;500;0;HDD;Não;AMD;Radeon R2
+Dell;Inspiron 3576;Notebook;15,6;8;Linux;2,20;647,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;AMD;Radeon 520
+HP;Envy 13-ad009n;Ultrabook;13,3;8;Windows 10;1,38;1119,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce MX150
+Microsoft;Surface Laptop;Ultrabook;13,5;8;Windows 10 S;1252,00;1340,00;Padrão;2256;1504;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Pavilion 14-BK001nv;Notebook;14,0;6;Windows 10;1,58;659,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Lenovo;Ideapad 310-15ISK;Notebook;15,6;4;Windows 10;1,85;414,90;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Asus;UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce;Ultrabook;14,0;8;Windows 10;1,30;1193,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+MSI;GP62M 7REX;Gaming;15,6;16;Windows 10;2,20;1299,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;Thinkpad T470;Notebook;14,0;8;Windows 10;1,58;1480,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;VivoBook S15;Ultrabook;15,6;16;Windows 10;1,50;1262,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;1024;SSD;HDD;Nvidia;GeForce MX150
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,23;1379,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,40;Core i7 7560U;256;0;SSD;Não;Intel;Iris Plus Graphics 640
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;1399,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Probook 440;Notebook;14,0;4;Windows 10;1,63;722,00;Padrão;1366;768;Não;Sim;Não;Intel;1,60;Core i5 8250U;500;0;HDD;Não;Intel;UHD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,21;1629,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;Spectre x360;Conversível 2 em 1;13,3;8;Windows 10;1,26;1398,99;Full HD;1920;1080;Sim;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;Probook 440;Notebook;14,0;8;Windows 10;1,63;1084,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 7570;Notebook;15,6;8;Windows 10;2,16;1130,33;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;1024;SSD;HDD;Nvidia;GeForce 940MX
+Asus;X705UV-BX074T (i3-6006U/4GB/1TB/GeForce;Notebook;17,3;4;Windows 10;2,00;564,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Asus;VivoBook S15;Notebook;15,6;8;Windows 10;1,70;1118,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Acer;Spin 3;Notebook;15,6;6;Windows 10;2,10;479,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+MSI;GS63VR 7RG;Gaming;15,6;16;Windows 10;1,80;2241,50;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;2048;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;8;Sem SO;2,20;629,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+HP;Probook 470;Notebook;17,3;16;Windows 10;2,50;1271,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Nvidia;GeForce 930MX 
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;451,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;256;0;SSD;Não;AMD;Radeon R5
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;259,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;500;0;HDD;Não;Intel;HD Graphics 400
+HP;Probook 440;Notebook;14,0;8;Windows 10;1,63;812,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Intel;UHD Graphics 620
+Asus;E402WA-GA007T (E2-6110/4GB/64GB/W10;Notebook;14,0;4;Windows 10 S;1,65;277,99;Padrão;1366;768;Não;Não;Não;AMD;1,50;E-Series 6110;64;0;SSD;Não;AMD;Radeon R2
+Dell;Inspiron 5770;Notebook;17,3;16;Windows 10;2,80;1396,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,50;928,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,36;638,99;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R7 M445
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,20;449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Acer;Swift 3;Ultrabook;14,0;8;Windows 10;1,60;884,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Acer;Aspire A515-51G-37JS;Notebook;15,6;4;Windows 10;2,20;572,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i3 7130U;256;0;SSD;Não;Nvidia;GeForce MX130
+HP;15-BS078nr (i7-7500U/8GB/1TB/W10);Notebook;15,6;8;Windows 10;2,05;598,00;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;Probook 440;Notebook;14,0;8;Windows 10;1,63;988,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;V110-15IAP (N3350/4GB/1TB/No;Notebook;15,6;4;Sem SO;1,90;252,36;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Asus;FX753VD-GC086T (i5-7300HQ/8GB/1TB;Gaming;17,3;8;Windows 10;3,00;938,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;4;Sem SO;2,20;499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+HP;Envy 13-AD007nv;Notebook;13,3;4;Windows 10;1,32;699,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire 5;Notebook;17,3;4;Windows 10;3,00;655,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i3 7130U;1024;0;HDD;Não;Nvidia;GeForce MX130
+Lenovo;ThinkPad E480;Notebook;14,0;8;Windows 10;1,75;1116,02;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon RX 550
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,40;869,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050M
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,10;602,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;255 G6;Notebook;15,6;4;Windows 10;1,86;369,00;Padrão;1366;768;Não;Não;Não;AMD;2,50;A6-Series 9220;256;0;SSD;Não;AMD;Radeon R4 Graphics
+Asus;ZenBook UX430UA;Ultrabook;14,0;8;Windows 10;1,25;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;EliteBook Folio;Ultrabook;12,5;8;Windows 10;0,97;2014,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,20;Core M 6Y75;512;0;SSD;Não;Intel;HD Graphics 515
+Asus;X541NA (N3350/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;2,00;344,00;Full HD;1920;1080;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+MSI;GE72MVR 7RG;Gaming;17,3;16;Windows 10;2,90;2029,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Acer;Aspire A315-51;Notebook;15,6;4;Windows 10;2,10;447,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5577;Gaming;15,6;16;Windows 10;2,56;1249,26;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,62;899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;Hybrid;Não;Nvidia;GeForce GTX 1050
+Lenovo;V110-15IKB (i5-7200U/4GB/128GB/W10);Notebook;15,6;4;Windows 10;1,90;498,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+MSI;GE73VR 7RE;Gaming;17,3;16;Windows 10;2,80;1890,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;EliteBook 840;Ultrabook;14,0;4;Windows 10;1,48;1082,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i5 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;15-BS103nv (i5-8250U/6GB/256GB/Radeon;Notebook;15,6;6;Windows 10;1,91;619,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;Yoga 520-14IKB;Conversível 2 em 1;14,0;4;Windows 10;1,74;629,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,40;Core i3 7100U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ZenBook Flip;Conversível 2 em 1;13,3;8;Windows 10;1,10;1315,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5579;Conversível 2 em 1;15,6;8;Windows 10;1,56;1049,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,10;447,00;Padrão;1366;768;Não;Não;Não;Intel;2,20;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Asus;X555BP-XX180T (A9-9420/4GB/1TB/Radeon;Notebook;15,6;4;Windows 10;2,03;403,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon R5 M420
+Acer;Aspire A517-51G;Notebook;17,3;4;Windows 10;3,00;805,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce MX150
+Dell;Inspiron 3576;Notebook;15,6;8;Windows 10;2,13;728,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;16;Windows 10;2,50;1079,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+Acer;Aspire A315-31;Notebook;15,6;4;Windows 10;2,10;348,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+MSI;GE63VR 7RE;Gaming;15,6;16;Windows 10;2,40;1799,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;363,51;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+Dell;Inspiron 5577;Gaming;15,6;8;Windows 10;2,56;1060,49;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Acer;Aspire A517-51G;Notebook;17,3;8;Windows 10;3,00;854,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce MX150
+HP;ProBook 430;Notebook;13,3;4;Windows 10;1,49;754,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;500;0;HDD;Não;Intel;UHD Graphics 620
+Huawei;MateBook X;Ultrabook;13,0;8;Windows 10;1,05;1349,00;Full HD;2160;1440;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;17-bs001nv (i5-7200U/6GB/2TB/Radeon;Notebook;17,3;6;Windows 10;2,71;699,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;2048;0;HDD;Não;AMD;Radeon 520
+Lenovo;IdeaPad 320-15AST;Notebook;15,6;4;Sem SO;2,20;309,00;Padrão;1366;768;Não;Não;Não;AMD;2,90;A6-Series 9220;500;0;HDD;Não;AMD;Radeon R4 Graphics
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,00;489,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,50;923,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,30;459,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Acer;Aspire A315-51;Notebook;15,6;4;Windows 10;2,10;449,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+MSI;GT80S 6QF-074US;Gaming;18,4;32;Windows 10;4,40;2799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 6920HQ;512;1024;SSD;HDD;Nvidia;GTX 980 SLI
+Lenovo;V310-15IKB (i5-7200U/8GB/1TB;Notebook;15,6;8;Windows 10;1,90;813,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;AMD;R17M-M1-70
+HP;Spectre x360;Conversível 2 em 1;13,3;8;Windows 10;1,29;1499,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;16;Linux;2,02;1049,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,23;1399,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;Yoga 920-13IKB;Conversível 2 em 1;13,9;16;Windows 10;1,40;1849,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Toshiba;Satellite Pro;Notebook;15,6;8;Windows 10;2,00;793,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Xiaomi;Mi Notebook;Notebook;15,6;8;Sem SO;1,95;1199,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce MX150
+Dell;Inspiron 7773;Notebook;17,3;16;Windows 10;2,77;1549,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Nvidia;GeForce 150MX
+Dell;XPS 15;Notebook;15,6;16;Windows 10;2,06;2397,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,40;779,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Acer;Swift 7;Ultrabook;13,3;8;Windows 10;1,12;989,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,20;Core i5 7Y54;256;0;SSD;Não;Intel;HD Graphics 615
+Dell;Inspiron 5770;Notebook;17,3;8;Windows 10;2,80;1085,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;AMD;Radeon 530
+Lenovo;Thinkpad Yoga;Conversível 2 em 1;14,0;16;Windows 10;1,42;2824,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,70;Core i7 7500U;1024;0;SSD;Não;Intel;HD Graphics 620
+Vero;K147 (N3350/4GB/32GB/FHD/W10);Notebook;14,0;4;Windows 10;1,30;260,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Xiaomi;Mi Notebook;Ultrabook;13,3;8;Sem SO;1,30;999,90;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce MX150
+Lenovo;IdeaPad 320-17IKBR;Notebook;17,3;8;Sem SO;2,80;698,00;Padrão;1600;900;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce MX150
+Dell;Inspiron 5379;Conversível 2 em 1;13,3;8;Windows 10;1,62;839,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Intel;UHD Graphics 620
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,50;914,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Razer;Blade Pro;Gaming;17,3;32;Windows 10;3,49;6099,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,90;Core i7 7820HK;1024;0;SSD;Não;Nvidia;GeForce GTX 1080
+HP;ProBook 430;Notebook;13,3;8;Windows 10;1,49;959,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;512;0;SSD;Não;Intel;UHD Graphics 620
+HP;Omen 17-W295;Gaming;17,3;16;Windows 10;3,35;1379,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;Probook 470;Notebook;17,3;8;Windows 10;2,50;1045,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce 930MX 
+Dell;Inspiron 7577;Gaming;15,6;16;Windows 10;2,65;1845,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Lenovo;V110-15ISK (i5-6200U/4GB/128GB/W10);Notebook;15,6;4;Windows 10;2,10;493,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Acer;Aspire E5-576G;Notebook;15,6;8;Windows 10;2,23;742,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Lenovo;Legion Y720-15IKB;Gaming;15,6;16;Windows 10;3,20;1749,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Precision 7520;Workstation;15,6;16;Windows 10;2,80;3055,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;3,00;Xeon E3-1505M V6;256;1024;SSD;HDD;Nvidia;Quadro M1200
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;16;Sem SO;2,40;1398,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1060
+Dell;Inspiron 3567;Notebook;15,6;6;Windows 10;2,30;439,00;Padrão;1366;768;Sim;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,21;1949,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,20;1449,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;8;Windows 10;2,20;597,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire 7;Notebook;15,6;8;Linux;2,40;779,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Asus;ROG GL703VD-GC028T;Gaming;17,3;16;Windows 10;2,90;1407,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;15-bs018nq (i3-6006U/4GB/500GB/FHD/No;Notebook;15,6;4;Sem SO;2,10;349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;8;Sem SO;2,20;549,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Huawei;MateBook X;Ultrabook;13,0;8;Windows 10;1,05;1499,00;Full HD;2160;1440;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5370;Ultrabook;13,3;8;Windows 10;1,40;931,88;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 530
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;8;Sem SO;2,80;589,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce GTX 940MX
+HP;Probook 440;Notebook;14,0;8;Windows 10;1,63;1031,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Latitude 5490;Ultrabook;14,0;8;Windows 10;1,60;1149,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 5379;Conversível 2 em 1;13,3;16;Windows 10;1,62;1279,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Inspiron 3576;Notebook;15,6;8;Linux;2,20;677,35;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;Yoga 520-14IKB;Conversível 2 em 1;14,0;8;Windows 10;1,74;899,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Toshiba;Portege Z30-C-16L;Ultrabook;13,3;8;Windows 10;1,20;1363,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,10;794,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Intel;UHD Graphics 620
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,42;2456,34;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Acer;Aspire E5-576G;Notebook;15,6;8;Windows 10;2,20;832,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;Inspiron 5567;Notebook;15,6;16;Windows 10;2,30;859,01;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon R7 M445
+Asus;Vivobook X541UV-DM1217T;Notebook;15,6;8;Windows 10;2,00;769,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 920MX 
+Asus;K756UX-T4340T (i5-7200U/8GB/500GB;Notebook;17,3;8;Windows 10;2,69;891,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;500;SSD;HDD;Nvidia;GeForce GTX 950M
+HP;ZBook 15u;Notebook;15,6;8;Windows 10;1,90;1269,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;FirePro W4190M 
+Asus;Pro P2540UA-XO0198T;Notebook;15,6;4;Windows 10;2,37;398,99;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;15-rb013nv (E2-9000e/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,10;330,00;Padrão;1366;768;Não;Não;Não;AMD;1,50;E-Series 9000e;500;0;HDD;Não;AMD;Radeon R2
+Lenovo;Legion Y720-15IKB;Gaming;15,6;16;Windows 10;3,20;1499,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Vostro 5468;Notebook;14,0;8;Windows 10;1,60;859,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire R7;Conversível 2 em 1;13,3;8;Windows 10;1,60;689,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5567;Notebook;15,6;16;Linux;2,36;899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R7 M445
+Acer;Aspire A315-51;Notebook;15,6;4;Linux;2,10;390,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Asus;X555QG-DM242T (A10-9620P/4GB/1TB;Notebook;15,6;4;Windows 10;2,20;575,00;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A10-Series A10-9620P;128;1024;SSD;HDD;AMD;Radeon R5 M430
+Asus;ROG G703VI-E5062T;Gaming;17,3;32;Windows 10;4,70;3890,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HK;512;1024;SSD;HDD;Nvidia;GeForce GTX 1080
+Acer;Nitro AN515-51;Gaming;15,6;8;Windows 10;2,50;846,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;8;Windows 10;2,20;589,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;VivoBook Pro;Notebook;17,3;8;Windows 10;2,10;1145,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;Nvidia;GeForce 150MX
+Asus;F756UX-T4201D (i7-7500U/8GB/128GB;Notebook;17,3;8;Sem SO;2,69;889,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;128;1024;SSD;HDD;Nvidia;GeForce GTX 950M
+Dell;Inspiron 5577;Gaming;15,6;8;Windows 10;2,56;879,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;Yoga 910-13IKB;Conversível 2 em 1;13,9;8;Windows 10;1,38;1079,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;985,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;2048;SSD;HDD;AMD;Radeon 530
+HP;15-bs015dx (i5-7200U/8GB/1TB/W10);Notebook;15,6;8;Windows 10;2,04;559,00;Padrão;1366;768;Sim;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;Rog G701VIK-BA060T;Gaming;17,3;16;Windows 10;3,60;2999,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HK;256;0;SSD;Não;Nvidia;GeForce GTX 1080
+HP;ProBook 430;Notebook;13,3;4;Windows 10;1,49;675,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;500;0;HDD;Não;Intel;UHD Graphics 620
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;2040,00;Padrão;2560;1600;Não;Sim;Sim;Intel;3,10;Core i5;512;0;SSD;Não;Intel;Iris Plus Graphics 650
+Dell;Inspiron 5579;Conversível 2 em 1;15,6;8;Windows 10;2,08;819,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Intel;UHD Graphics 620
+Asus;ROG G752VSK-GC493T;Gaming;17,3;16;Windows 10;4,30;1799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+Asus;X505BP-BR019T (A9-9420/4GB/1TB/Radeon;Notebook;15,6;4;Windows 10;1,68;469,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon R5 M420
+Lenovo;Yoga 920-13IKB;Conversível 2 em 1;13,9;8;Windows 10;1,37;1849,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Acer;Aspire 5;Notebook;17,3;4;Windows 10;3,00;702,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i3 7130U;256;0;SSD;Não;Nvidia;GeForce MX130
+Dell;Vostro 5370;Ultrabook;13,3;8;Windows 10;1,41;949,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;15-BW094nd (A6-9220/8GB/128GB/W10);Notebook;15,6;8;Windows 10;1,91;445,90;Padrão;1366;768;Não;Não;Não;AMD;2,50;A6-Series A6-9220;128;0;SSD;Não;AMD;Radeon R4 Graphics
+HP;Envy 17-U275cl;Notebook;17,3;16;Windows 10;2,90;1059,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Nvidia;GeForce MX150
+MSI;GT73EVR 7RE;Gaming;17,3;16;Windows 10;4,14;2499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;Yoga 720-15IKB;Conversível 2 em 1;15,6;8;Windows 10;2,00;1699,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050M
+Dell;Inspiron 5770;Notebook;17,3;8;Windows 10;2,80;1142,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;AMD;Radeon 530
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;4;Sem SO;2,20;444,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,10;722,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;657,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,24;565,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Dell;Inspiron 5579;Conversível 2 em 1;15,6;8;Windows 10;2,67;799,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Asus;ZenBook Flip;Conversível 2 em 1;13,3;8;Windows 10;1,10;1499,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;512;512;SSD;SSD;Intel;UHD Graphics 620
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;4;Sem SO;2,20;467,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;Probook 470;Notebook;17,3;8;Windows 10;2,50;1018,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Nvidia;GeForce 930MX 
+Lenovo;V330-15IKB (i7-8550U/8GB/256GB/FHD/W10);Notebook;15,6;8;Windows 10;2,05;880,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Apple;MacBook Pro;Ultrabook;13,3;8;macOS;1,37;1958,90;Padrão;2560;1600;Não;Sim;Sim;Intel;2,90;Core i5;512;0;SSD;Não;Intel;Iris Graphics 550
+Asus;Rog Strix;Gaming;17,3;16;Windows 10;3,20;1549,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;Ryzen 1700;256;1024;SSD;HDD;AMD;Radeon RX 580
+Dell;Inspiron 3576;Notebook;15,6;8;Linux;2,14;735,07;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;16;Windows 10;1,36;2499,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Intel;HD Graphics 520
+Toshiba;Satellite Pro;Notebook;15,6;8;Windows 10;2,20;812,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i7 6500U;500;0;HDD;Não;Nvidia;GeForce 930M
+Dell;Inspiron 5567;Notebook;15,6;12;Windows 10;2,30;713,07;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5770;Notebook;17,3;8;Linux;2,80;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;AMD;Radeon 530
+Acer;Aspire A515-51G;Notebook;15,6;8;Windows 10;2,20;745,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Nvidia;GeForce MX130
+Lenovo;IdeaPad 320-17ISK;Notebook;17,3;4;Windows 10;2,80;489,00;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-17IKBR;Notebook;17,3;8;Sem SO;2,80;849,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;2048;0;HDD;Não;Nvidia;GeForce MX150
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;6;Windows 10;2,80;859,00;Padrão;1600;900;Não;Não;Não;Intel;2,70;Core i7 7500U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+Dell;Inspiron 3567;Notebook;15,6;4;Linux;2,25;428,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;829,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;Ideapad 320-15IKBN;Notebook;15,6;6;Windows 10;2,20;579,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire A517-51G;Notebook;15,6;8;Windows 10;3,00;951,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce MX150
+Acer;SP315-51 (i7-7500U/12GB/1TB/FHD/W10);Notebook;15,6;12;Windows 10;2,15;659,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad T570;Notebook;15,6;8;Windows 10;1,95;1097,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 630
+Asus;VivoBook S15;Ultrabook;15,6;8;Windows 10;1,70;977,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;16;Windows 10;2,50;1179,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;IdeaPad 320-15IKB;Notebook;15,6;8;Sem SO;2,20;659,01;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Acer;Chromebook C910-C2ST;Notebook;15,6;2;Chrome OS;2,19;199,00;Padrão;1366;768;Não;Não;Não;Intel;1,50;Celeron Dual Core 3205U;16;0;SSD;Não;Intel;HD Graphics
+Asus;FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce;Gaming;17,3;8;Windows 10;3,00;1187,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+HP;17-BS037cl (i3-6006U/8GB/1TB/W10);Notebook;17,3;8;Windows 10;2,54;489,00;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Dell;XPS 15;Notebook;15,6;8;Windows 10;2,00;1829,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;V330-15IKB (i5-8250U/8GB/256GB/FHD/W10);Notebook;15,6;8;Windows 10;2,05;739,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;Legion Y720-15IKB;Gaming;15,6;8;Windows 10;3,20;1299,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1060
+Acer;Aspire A715-71G;Notebook;15,6;8;Linux;2,50;979,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+Dell;Precision 7720;Workstation;17,3;16;Windows 10;3,42;2884,86;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HQ;256;0;SSD;Não;Nvidia;Quadro M1200
+Lenovo;IdeaPad 310-15ABR;Notebook;15,6;6;Windows 10;2,40;499,00;Full HD;1920;1080;Não;Não;Não;AMD;2,40;A10-Series 9600P;1024;0;HDD;Não;AMD;Radeon R5 430
+Asus;ZenBook UX530UQ-PRO;Ultrabook;15,6;16;Windows 10;1,63;1468,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Nvidia;GeForce 940MX
+Asus;VivoBook S14;Notebook;14,0;4;Windows 10;1,30;509,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Asus;Rog GL702VS-GC095T;Gaming;17,3;16;Windows 10;2,90;2122,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;6;Windows 10;2,80;649,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce GTX 940M
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;8;Sem SO;2,20;549,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;2048;0;HDD;Não;Nvidia;GeForce 940MX
+Asus;GL553VE-FY082T (i7-7700HQ/8GB/1TB;Gaming;15,6;8;Windows 10;2,50;1265,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Sem SO;2,20;359,99;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+HP;EliteBook x360;Conversível 2 em 1;13,3;16;Windows 10;1,28;1975,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Satellite Pro;Notebook;15,6;8;Windows 10;2,20;1043,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Nvidia;GeForce 930M
+Lenovo;IdeaPad 320-15IKB;Notebook;15,6;8;Windows 10;2,30;819,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;469,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 720S-13IKB;Notebook;13,3;8;Windows 10;1,10;999,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;16;Windows 10;1,21;2499,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;SSD;Não;Intel;UHD Graphics 620
+MSI;GE63VR 7RF;Gaming;15,6;16;Windows 10;2,80;2099,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Acer;ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10);Notebook;15,6;8;Windows 10;2,23;469,00;Full HD;1920;1080;Não;Não;Não;AMD;2,20;A8-Series 7410;256;0;SSD;Não;AMD;Radeon R5
+Asus;VivoBook Flip;Conversível 2 em 1;11,6;2;Windows 10;1,10;275,00;Padrão;1366;768;Sim;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,33;844,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;AMD;Radeon 530
+HP;Spectre x360;Conversível 2 em 1;13,3;16;Windows 10;1,29;2449,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;ThinkPad 13;Notebook;13,3;4;Chrome OS;1,45;459,90;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core 3855U;16;0;Flash Storage;Não;Intel;HD Graphics 510
+HP;ProBook 640;Notebook;14,0;8;Windows 10;1,95;980,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;TravelMate B;Notebook;11,6;4;Windows 10;1,40;485,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;128;0;Flash Storage;Não;Intel;HD Graphics 405
+HP;Elitebook 840;Notebook;14,0;8;Windows 10;1,48;1292,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;4;Windows 10;2,79;589,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Asus;ZenBook UX410UA-GV183T;Notebook;14,0;8;Windows 10;2,00;1094,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,10;902,00;Full HD;1366;768;Não;Sim;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Intel;UHD Graphics 620
+Acer;Aspire 5;Notebook;15,6;8;Windows 10;2,20;659,00;Padrão;1366;768;Não;Não;Não;AMD;2,70;A12-Series 9720P;256;0;SSD;Não;AMD;Radeon RX 540
+Lenovo;IdeaPad 120S-14IAP;Notebook;14,0;4;Windows 10;1,44;292,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Acer;Aspire E5-575;Notebook;15,6;6;Windows 10;2,23;549,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;VivoBook S15;Ultrabook;15,6;8;Windows 10;1,70;1049,90;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+HP;Elitebook 820;Ultrabook;12,5;8;Windows 10;1,26;1335,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 15;Notebook;15,6;32;Windows 10;2,06;2639,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;SSD;Não;Nvidia;GeForce GTX 1050
+MSI;GL72M 7REX;Gaming;17,3;8;Windows 10;2,70;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Toshiba;Satellite Pro;Notebook;15,6;8;Windows 10;2,00;943,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;UX510UX-CN269T (i7-7500U/8GB/256GB;Notebook;14,0;8;Windows 10;2,00;1334,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;1024;SSD;HDD;Intel;HD Graphics 620
+Lenovo;V310-15ISK (i3-6006U/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;1,85;449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Asus;FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce;Gaming;15,6;8;Windows 10;2,50;999,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+HP;EliteBook 840;Notebook;14,0;8;Windows 10;1,48;1268,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7570;Ultrabook;15,6;8;Windows 10;1,90;1049,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+HP;Elitebook 850;Notebook;15,6;8;Windows 10;1,84;1144,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;X541NA (N3350/4GB/1TB/Linux);Notebook;15,6;4;Linux;2,00;274,99;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Dell;Inspiron 7570;Notebook;15,6;8;Windows 10;2,00;1142,75;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;Inspiron 3552;Notebook;15,6;4;Linux;2,20;274,90;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;500;0;HDD;Não;Intel;HD Graphics
+Lenovo;IdeaPad 320-15ABR;Notebook;15,6;12;Windows 10;2,20;899,00;Full HD;1920;1080;Não;Não;Não;AMD;3,60;A12-Series 9720P;2048;0;HDD;Não;AMD;Radeon 530
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,10;716,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Nvidia;GeForce 930MX 
+Lenovo;Yoga 920-13IKB;Conversível 2 em 1;13,9;16;Windows 10;1,40;2099,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,20;1579,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;16;Windows 10;2,40;1129,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;2048;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+HP;Stream 14-AX001nv;Notebook;14,0;2;Windows 10;1,44;279,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Dell;Latitude 5590;Ultrabook;15,6;16;Windows 10;1,88;1607,96;Full HD;1920;1080;Não;Não;Não;Intel;1,90;Core i7 8650U;512;256;SSD;SSD;Intel;UHD Graphics 620
+Asus;VivoBook Flip;Conversível 2 em 1;11,6;4;Windows 10;1,50;375,00;Padrão;1366;768;Sim;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Dell;Inspiron 5570;Ultrabook;15,6;8;Windows 10;1,90;663,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;AMD;Radeon 530
+Dell;XPS 15;Notebook;15,6;16;Windows 10;2,06;2027,42;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050
+HP;Elitebook 850;Notebook;15,6;8;Windows 10;1,84;1304,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+MSI;GP72MVR 7RFX;Gaming;17,3;8;Windows 10;2,70;1409,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;Zbook 15;Workstation;15,6;8;Windows 10;2,60;1738,27;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M1200
+Toshiba;Tecra A50-C-21G;Notebook;15,6;16;Windows 10;2,40;1403,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Nvidia;GeForce 930M
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,02;970,90;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;2048;SSD;HDD;AMD;Radeon 530
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Sem SO;2,20;321,99;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Dell;Inspiron 7577;Gaming;15,6;8;Windows 10;2,65;999,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,36;557,37;Padrão;1366;768;Sim;Não;Não;Intel;2,50;Core i5 7200U;2048;0;HDD;Não;Intel;HD Graphics 620
+Dell;Latitude 7480;Notebook;14,0;8;Windows 10;1,36;1427,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;439,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Asus;Zenbook UX410UA-GV027T;Notebook;14,0;8;Windows 10;2,00;945,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;6;Windows 10;2,80;719,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;Nvidia;GeForce GTX 940MX
+HP;250 G6;Notebook;15,6;8;Windows 10;1,86;639,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;8;Sem SO;2,20;499,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Nvidia;GeForce 920MX 
+HP;15-AY023na (N3710/8GB/2TB/W10);Notebook;15,6;8;Windows 10;2,04;389,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;2048;0;HDD;Não;Intel;HD Graphics 405
+Dell;Inspiron 5770;Notebook;17,3;8;Windows 10;2,80;1085,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;AMD;Radeon 530
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,40;809,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,33;899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R7 M445
+HP;Elitebook 1040;Ultrabook;14,0;8;Windows 10;1,36;1750,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ZenBook Flip;Conversível 2 em 1;15,6;12;Windows 10;2,26;1099,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;2048;SSD;HDD;Nvidia;GeForce GT 940MX
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;426,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;128;0;SSD;Não;AMD;Radeon R5
+Asus;Rog Strix;Gaming;17,3;16;Windows 10;3,25;2199,00;Full HD;1920;1080;Não;Sim;Não;AMD;3,00;Ryzen 1700;256;1024;SSD;HDD;AMD;Radeon RX 580
+Lenovo;IdeaPad 110-17ACL;Notebook;17,3;4;Windows 10;2,60;489,00;Padrão;1600;900;Não;Não;Não;AMD;2,20;A8-Series 7410;128;0;SSD;Não;AMD;Radeon R5
+Dell;Inspiron 5379;Conversível 2 em 1;13,3;8;Windows 10;1,62;869,01;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10);Notebook;15,6;4;Windows 10;1,91;488,99;Full HD;1920;1080;Não;Não;Não;AMD;3,00;A9-Series 9420;256;0;SSD;Não;AMD;Radeon R5
+Lenovo;Yoga 11e;Netbook;11,6;4;Windows 10;1,59;553,00;Padrão;1366;768;Não;Sim;Não;Intel;1,10;Celeron Quad Core N3450;128;0;SSD;Não;Intel;HD Graphics 500
+Dell;Inspiron 3552;Notebook;15,6;4;Windows 10;1,80;309,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;500;0;HDD;Não;Intel;HD Graphics 400
+Asus;VivoBook E403NA;Notebook;14,0;4;Windows 10;1,50;286,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Acer;Aspire 7;Notebook;15,6;8;Linux;2,40;846,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+HP;Omen 17-w212nv;Gaming;17,3;8;Windows 10;3,35;1191,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;V310-15ISK (i3-6006U/4GB/128GB/FHD/No;Notebook;15,6;4;Sem SO;1,85;403,50;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;ROG Strix;Gaming;15,6;8;Windows 10;2,30;1655,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Lenovo;IdeaPad 720S-14IKB;Notebook;14,0;8;Windows 10;1,50;1099,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Asus;Zenbook Flip;Ultrabook;13,3;16;Windows 10;1,10;1748,90;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad X1;Ultrabook;14,0;8;Windows 10;1,13;2282,00;Padrão;2560;1440;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Ideapad 510S-13IKB;Notebook;13,3;4;Windows 10;1,50;549,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Dell;Precision 3510;Workstation;15,6;8;Windows 10;2,23;1369,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 6440HQ;500;0;HDD;Não;AMD;FirePro W5130M
+Dell;Precision 5520;Workstation;15,6;8;Windows 10;2,00;2135,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HQ;256;0;SSD;Não;Nvidia;Quadro M1200
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;16;Windows 10;1,42;2509,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;Rog GL753VD-GC042T;Gaming;17,3;8;Windows 10;3,00;1039,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Asus;Rog GL753VE-GC070T;Gaming;17,3;16;Windows 10;3,00;1591,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Acer;Aspire 5;Notebook;15,6;12;Windows 10;2,20;693,99;Padrão;1366;768;Não;Sim;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Nvidia;GeForce MX130
+MSI;Leopard GP72M;Gaming;17,3;8;Windows 10;2,70;1349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+Dell;Inspiron 5567;Notebook;15,6;8;Linux;2,33;778,87;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R7 M445
+HP;15-BW004nv (A9-9420/4GB/256GB/Radeon;Ultrabook;15,6;4;Windows 10;1,91;499,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;A9-Series 9420;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;ThinkPad E580;Notebook;15,6;8;Windows 10;2,10;1229,56;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon RX 550
+Lenovo;ThinkPad L470;Notebook;14,0;8;Windows 10;1,90;938,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Precision M5520;Workstation;15,6;8;Windows 10;1,78;2712,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M1200
+Lenovo;Thinkpad X1;Ultrabook;14,0;16;Windows 10;1,13;2625,00;Padrão;2560;1440;Não;Sim;Não;Intel;2,70;Core i7 7500U;1024;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Windows 10;2,20;306,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Asus;FX753VD-GC461T (i7-7700HQ/16GB/1TB;Gaming;17,3;16;Windows 10;2,90;1529,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;ThinkPad E580;Notebook;15,6;8;Windows 10;2,10;1144,50;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;1024;SSD;HDD;AMD;Radeon RX 550
+Acer;Aspire 7;Notebook;15,6;8;Linux;2,50;879,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+MSI;GE73VR 7RF;Gaming;17,3;16;Windows 10;2,80;2249,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Asus;Zenbook 3;Ultrabook;14,0;8;Windows 10;1,10;1873,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Portege Z30-C-16P;Ultrabook;13,3;16;Windows 10;1,20;1747,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude 7480;Ultrabook;14,0;8;Windows 10;1,36;1680,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;512;0;SSD;Não;Intel;HD Graphics
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;4;Windows 10;2,20;409,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;Lenovo IdeaPad;Notebook;11,6;2;Windows 10;1,15;304,45;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Lenovo;ThinkPad P51;Workstation;15,6;8;Windows 10;2,67;1925,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;Quadro M1200
+Lenovo;Thinkpad T470p;Ultrabook;14,0;8;Windows 10;1,70;1943,00;Full HD;2560;1440;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GT 940MX
+HP;15-BS028nv (i3-6006U/4GB/1TB/Radeon;Notebook;15,6;4;Windows 10;2,10;469,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon 520
+Acer;Aspire R7;Conversível 2 em 1;13,3;8;Windows 10;1,60;789,01;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;ZenBook Flip;Conversível 2 em 1;13,3;8;Windows 10;1,27;928,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 3567;Notebook;15,6;4;Linux;2,30;598,90;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon R5 M430
+Dell;Latitude 3380;Notebook;13,3;4;Windows 10;1,65;689,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 1040;Ultrabook;14,0;8;Windows 10;1,43;1500,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,14;539,95;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad E480;Ultrabook;14,0;8;Windows 10;1,75;1215,38;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon RX 550
+Lenovo;Yoga 720-15IKB;Conversível 2 em 1;15,6;16;Windows 10;2,00;1899,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050
+Chuwi;LapBook 12.3;Notebook;12,3;6;Windows 10;1,40;449,00;Padrão;2736;1824;Não;Sim;Sim;Intel;1,10;Celeron Quad Core N3450;64;0;Flash Storage;Não;Intel;HD Graphics 500
+HP;ProBook 650;Notebook;15,6;8;Windows 10;2,31;1427,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HQ;256;0;SSD;Não;Intel;HD Graphics 630
+Asus;X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce;Notebook;15,6;8;Linux;2,30;597,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,42;2799,00;Padrão;2560;1440;Não;Sim;Não;Intel;2,90;Core i7 7820HK;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Dell;Inspiron 7577;Gaming;15,6;8;Windows 10;2,62;1159,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,02;1142,40;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+Dell;Latitude 5480;Ultrabook;14,0;8;Linux;1,60;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Omen 17-w207nv;Gaming;17,3;12;Windows 10;3,35;1999,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Mediacom;FlexBook Edge;Conversível 2 em 1;11,6;4;Windows 10;1,16;299,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,10;Celeron Dual Core N3350;32;0;SSD;Não;Intel;HD Graphics 500
+Samsung;Chromebook 3;Netbook;11,6;4;Chrome OS;1,15;269,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;16;0;Flash Storage;Não;Intel;HD Graphics 400
+Lenovo;Thinkpad 13;Notebook;13,3;8;Windows 10;1,40;1010,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320s-14IKB;Notebook;14,0;4;Windows 10;1,70;599,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i3 7130U;128;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad T570;Workstation;15,6;16;Windows 10;2,30;2445,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7600U;512;0;SSD;Não;Nvidia;GeForce 940MX
+Lenovo;Thinkpad P51;Notebook;15,6;16;Windows 10;2,50;2449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HQ;512;0;SSD;Não;Nvidia;Quadro M2200M
+Asus;Rog Strix;Gaming;17,3;8;Windows 10;3,20;1695,00;Full HD;1920;1080;Não;Não;Não;AMD;3,20;Ryzen 1600;256;1024;SSD;HDD;AMD;Radeon RX 580
+HP;15-ra044nv (N3060/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,10;347,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;500;0;HDD;Não;Intel;HD Graphics 400
+Google;Pixelbook (Core;Ultrabook;12,3;16;Chrome OS;1,10;2199,00;Padrão;2400;1600;Sim;Não;Não;Intel;1,30;Core i7 7Y75;512;0;SSD;Não;Intel;HD Graphics 615
+Lenovo;ThinkPad T470s;Ultrabook;14,0;24;Windows 10;1,32;2382,00;Padrão;2560;1440;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;VivoBook Max;Notebook;15,6;4;Linux;2,00;559,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15AST;Notebook;17,3;8;Windows 10;2,80;519,00;Padrão;1600;900;Não;Não;Não;AMD;2,50;A6-Series 9220;1024;0;HDD;Não;AMD;Radeon R4
+Dell;Inspiron 5570;Notebook;15,6;4;Windows 10;2,20;749,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 530
+Lenovo;ThinkPad X270;Ultrabook;12,5;8;Windows 10;1,36;1429,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Windows 10;2,20;349,00;Full HD;1920;1080;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;128;0;SSD;Não;Intel;HD Graphics 505
+HP;Omen 15-AX205na;Gaming;15,6;8;Windows 10;2,20;1099,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Latitude 5480;Notebook;14,0;8;Windows 10;1,64;1179,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i5 7440HQ;256;0;SSD;Não;Nvidia;GeForce 930MX
+Acer;Aspire ES1-572;Notebook;15,6;4;Linux;2,40;441,80;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;Precision 3520;Workstation;15,6;8;Windows 10;2,23;1993,00;Full HD;1920;1080;Não;Não;Não;Intel;3,00;Xeon E3-1505M V6;64;1024;Flash Storage;HDD;Nvidia;Quadro M620
+MSI;GV62 7RD-1686NL;Gaming;15,6;8;Windows 10;2,20;1027,74;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Microsoft;Surface Laptop;Ultrabook;13,5;16;Windows 10 S;1,25;2589,00;Padrão;2256;1504;Sim;Não;Não;Intel;2,50;Core i7 7660U;512;0;SSD;Não;Intel;Iris Plus Graphics 640
+HP;15-bs024nv (i5-7200U/8GB/128GB/W10);Notebook;15,6;8;Windows 10;1,91;589,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Dell;Precision 3520;Workstation;15,6;16;Windows 10;2,17;1975,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HQ;256;0;SSD;Não;Nvidia;Quadro M620
+HP;ProBook 650;Workstation;15,6;8;Windows 10;2,31;1534,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,90;Core i7 7820HQ;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad T470;Notebook;14,0;8;Windows 10;1,65;1345,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,36;979,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;128;1024;SSD;HDD;AMD;Radeon 530
+Dell;Inspiron 3168;Conversível 2 em 1;11,6;4;Windows 10;1,47;479,00;Padrão;1366;768;Sim;Não;Não;Intel;1,60;Pentium Quad Core N3710;500;0;HDD;Não;Intel;HD Graphics 405
+Dell;Alienware 17;Notebook;17,3;8;Windows 10;4,42;2046,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1060
+Microsoft;Surface Laptop;Ultrabook;13,5;4;Windows 10 S;1252,00;989,00;Padrão;2256;1504;Sim;Não;Não;Intel;2,20;Core M m3-7Y30;128;0;SSD;Não;Intel;HD Graphics 615
+Microsoft;Surface Laptop;Ultrabook;13,5;8;Windows 10 S;1,25;1799,00;Padrão;2256;1504;Sim;Não;Não;Intel;2,50;Core i7 7660U;256;0;SSD;Não;Intel;Iris Plus Graphics 640
+HP;17-BS092ND (i3-6006U/8GB/256GB/W10);Notebook;17,3;8;Windows 10;2,50;639,90;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Intel;HD Graphics 520
+Acer;Aspire E5-576G;Notebook;15,6;4;Windows 10;2,23;544,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Acer;TravelMate B;Netbook;11,6;4;Windows 10;1,40;435,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;128;0;SSD;Não;Intel;HD Graphics 400
+Asus;Pro P2540UA-AB51;Notebook;15,6;8;Windows 10;2,37;749,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 510s-14IKB;Notebook;14,0;8;Sem SO;1,50;799,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;AMD;Radeon R7 M460
+Lenovo;Thinkpad P51;Notebook;15,6;8;Windows 10;2,67;2090,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HQ;256;0;SSD;Não;Nvidia;Quadro M2200M
+Asus;X541NA-PD1003Y (N4200/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,00;304,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;500;0;HDD;Não;Intel;HD Graphics 500
+Acer;Aspire 5;Notebook;15,6;4;Windows 10;2,20;469,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Nvidia;GeForce GTX 940MX
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,02;759,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;2048;0;HDD;Não;AMD;Radeon 530
+HP;Omen 17-an006nv;Gaming;17,3;12;Windows 10;3,78;1699,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1060
+Lenovo;Thinkpad T460s;Ultrabook;14,0;12;Windows 10;1,40;1858,00;Quad HD+;2560;1440;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;Spectre x360;Conversível 2 em 1;13,3;8;Windows 10;1,29;1999,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+HP;ZBook 15u;Notebook;15,6;8;Windows 10;1,90;1154,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;AMD;FirePro W4190M 
+Google;Pixelbook (Core;Ultrabook;12,3;8;Chrome OS;1,10;1275,00;Padrão;2400;1600;Sim;Não;Não;Intel;1,20;Core i5 7Y57;128;0;SSD;Não;Intel;HD Graphics 615
+Dell;Latitude 7390;Ultrabook;13,3;8;Windows 10;1,42;1841,85;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Asus;ZenBook Pro;Notebook;15,6;12;Windows 10;2,06;1299,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Intel;HD Graphics 530
+Dell;Latitude E5470;Notebook;14,0;8;Windows 10;1,79;740,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;128;0;SSD;Não;Intel;HD Graphics 520
+Dell;Precision M5520;Workstation;15,6;8;Windows 10;1,78;2408,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M1200
+Lenovo;Thinkpad T470;Notebook;14,0;8;Windows 10;1,70;1364,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;180;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 3576;Notebook;15,6;8;Windows 10;2,20;675,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;AMD;Radeon 520
+Toshiba;Portege X30-D-10J;Notebook;13,3;8;Windows 10;1,05;1672,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7570;Notebook;15,6;8;Windows 10;2,16;1262,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;586,60;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 430;Notebook;13,3;4;Windows 10;1,49;726,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;128;0;SSD;Não;Intel;UHD Graphics 620
+Chuwi;Lapbook 15,6;Notebook;15,6;4;Windows 10;1,89;248,90;Full HD;1920;1080;Não;Não;Não;Intel;1,44;Atom x5-Z8350;64;0;Flash Storage;Não;Intel;HD Graphics
+Lenovo;ThinkPad E570;Notebook;15,6;4;Windows 10;2,30;565,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad E480;Notebook;14,0;8;Windows 10;1,75;1049,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Precision 3520;Workstation;15,6;16;Windows 10;2,17;2338,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HQ;512;0;SSD;Não;Nvidia;Quadro M620
+Dell;XPS 15;Notebook;15,6;16;Windows 10;2,06;1899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;Thinkpad X270;Ultrabook;12,5;16;Windows 10;1,36;1798,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;Zenbook UX390UA;Ultrabook;12,5;16;Windows 10;0,91;1950,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad E570;Notebook;15,6;8;Windows 10;2,30;1011,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Toshiba;Portege X30-D-10L;Ultrabook;13,3;32;Windows 10;1,05;2799,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;VivoBook Pro;Gaming;15,6;8;Windows 10;1,99;1350,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Acer;Aspire 5;Notebook;15,6;8;Windows 10;2,20;579,00;Padrão;1366;768;Não;Não;Não;AMD;2,50;A10-Series 9620P;1024;0;HDD;Não;AMD;Radeon RX 540
+Asus;Rog G752VL-UH71T;Gaming;17,3;24;Windows 10;4,33;1269,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 965M
+Lenovo;Thinkpad X260;Ultrabook;12,5;8;Windows 10;1,30;1099,00;Padrão;1366;768;Não;Sim;Não;Intel;2,30;Core i5 6200U;180;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Ideapad 520-15IKBR;Notebook;15,6;8;Windows 10;2,17;898,90;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+HP;EliteBook 840;Notebook;14,0;8;Windows 10;1,48;1749,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;1024;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad 13;Notebook;13,3;8;Windows 10;1,40;949,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad L570;Notebook;15,6;8;Windows 10;2,30;911,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;VivoBook E201NA;Netbook;11,6;4;Windows 10 S;1,20;340,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;64;0;Flash Storage;Não;Intel;HD Graphics 500
+HP;15-BS026nv (i5-7200U/8GB/256GB/Radeon;Notebook;15,6;8;Windows 10;1,91;618,99;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon 520
+Lenovo;Yoga 920-13IKB;Conversível 2 em 1;13,9;8;Windows 10;1,40;1599,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;IdeaPad 320-14IAP;Notebook;14,0;4;Windows 10;2,10;299,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;500;0;HDD;Não;Intel;HD Graphics 500
+Lenovo;Chromebook N23;Netbook;11,6;4;Chrome OS;1,25;265,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;16;0;SSD;Não;Intel;HD Graphics 400
+Lenovo;ThinkPad 13;Notebook;13,3;8;Windows 10;1,44;949,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ZenBook UX510UX-CN211T;Notebook;15,6;8;Windows 10;2,00;1224,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;1024;SSD;HDD;Intel;HD Graphics 620
+Acer;Aspire A515-51G-59QF;Notebook;15,6;4;Windows 10;2,20;613,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Nvidia;GeForce MX150
+HP;Envy 13-AB002nv;Ultrabook;13,3;8;Windows 10;1,34;1323,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,40;1149,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,29;899,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire A515-51G;Notebook;15,6;4;Windows 10;2,20;639,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;500;0;HDD;Não;Nvidia;GeForce 940MX
+Dell;Vostro 5568;Notebook;15,6;8;Windows 10;2,18;836,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;16;Windows 10;2,20;1219,24;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+Xiaomi;Mi Notebook;Notebook;15,6;16;Sem SO;1,95;1399,95;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Nvidia;GeForce MX150
+Asus;VivoBook E12;Netbook;11,6;2;Windows 10;1,10;245,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+HP;15-bs190od (i5-8250U/4GB/1TB/W10);Notebook;15,6;4;Windows 10;2,04;521,47;Padrão;1366;768;Sim;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Intel;UHD Graphics 620
+Asus;ROG Zephyrus;Gaming;15,6;24;Windows 10;2,24;2968,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX1080
+HP;Probook 450;Notebook;15,6;8;Windows 10;2,04;889,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Asus;FX753VE-GC155T (i7-7700HQ/16GB/1TB;Gaming;17,3;16;Windows 10;3,00;1504,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX1050 Ti
+Lenovo;Legion Y720-15IKB;Gaming;15,6;8;Windows 10;3,20;1399,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;Spectre X360;Ultrabook;13,3;8;Windows 10;1,32;1399,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 5480;Notebook;14,0;8;Windows 10;1,64;1279,73;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 440;Notebook;15,6;4;Windows 10;1,63;689,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5770;Notebook;17,3;8;Linux;2,80;889,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;AMD;Radeon 530
+Lenovo;ThinkPad L470;Notebook;14,0;8;Windows 7;2,02;1340,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15IKB;Notebook;15,6;4;Windows 10;2,20;799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;8;Sem SO;2,20;459,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;2048;0;HDD;Não;Nvidia;GeForce 920MX 
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,30;585,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;AMD;Radeon R5 M430
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;1377,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i5 7440HQ;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,42;3012,77;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Toshiba;Satellite Pro;Notebook;15,6;8;Windows 10;2,00;860,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Asus;Zenbook UX510UW-FI095T;Notebook;15,6;8;Windows 10;2,00;1299,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Mediacom;SmartBook Edge;Notebook;13,3;4;Windows 10;1,20;369,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,10;Celeron Quad Core N3450;32;0;SSD;Não;Intel;HD Graphics 500
+Asus;ROG Strix;Gaming;15,6;8;Windows 10;2,30;1649,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,93;1369,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;797,41;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 530
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;398,99;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;256;0;SSD;Não;Intel;HD Graphics 405
+HP;Omen 15-ce006nv;Gaming;17,3;12;Windows 10;2,62;1799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1060
+Lenovo;Thinkpad E470;Notebook;14,0;8;Windows 10;1,87;859,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,20;1399,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Vostro 5468;Notebook;14,0;4;Windows 10;1,60;735,87;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+HP;Envy 13-AB020nr;Ultrabook;13,3;8;Windows 10;1,34;1145,00;Quad HD+;3200;1800;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire 7;Gaming;15,6;8;Linux;2,40;798,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Asus;VivoBook X540YA-XX519T;Notebook;15,6;4;Windows 10;2,00;349,00;Padrão;1366;768;Não;Não;Não;AMD;1,80;E-Series 7110;500;0;HDD;Não;AMD;Radeon R2 Graphics
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,10;705,50;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad E470;Notebook;14,0;4;Windows 10;1,87;785,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;V310-15ISK (i5-6200U/4GB/1TB/FHD/No;Notebook;15,6;4;Sem SO;2,15;462,35;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;1024;0;HDD;Não;Intel;HD Graphics 520
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;397,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad T570;Notebook;15,6;8;Windows 10;1,99;1729,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;4;Windows 10;2,20;499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;1116,99;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,42;2699,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+HP;17-X047na (i3-6006U/8GB/1TB/W10);Notebook;17,3;8;Windows 10;2,65;544,15;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,63;1280,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Asus;A541NA-GO342 (N3350/4GB/500GB/Linux);Notebook;15,6;4;Linux;2,00;224,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;500;0;HDD;Não;Intel;HD Graphics 500
+Mediacom;SmartBook 130;Notebook;13,3;4;Windows 10;1,35;255,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,44;Atom x5-Z8350;32;0;Flash Storage;Não;Intel;HD Graphics
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;6;Windows 10;2,80;949,00;Padrão;1600;900;Não;Não;Não;Intel;2,70;Core i7 7500U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+HP;15-bw007nv (A10-9620P/6GB/128GB/Radeon;Notebook;15,6;6;Windows 10;1,91;568,90;Full HD;1920;1080;Não;Sim;Não;AMD;2,50;A10-Series A10-9620P;128;0;SSD;Não;AMD;Radeon 530
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;617,90;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M420
+Acer;Spin SP111-31;Conversível 2 em 1;11,6;4;Windows 10;1,25;349,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,00;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Lenovo;V330-15IKB (i3-7130U/4GB/128GB/FHD/W10);Notebook;15,6;4;Windows 10;2,05;630,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i3 7130U;128;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 1030;Ultrabook;13,3;16;Windows 10;1,16;1965,00;Quad HD+;3200;1800;Sim;Sim;Não;Intel;1,20;Core M 6Y75;512;0;SSD;Não;Intel;HD Graphics 515
+Lenovo;Thinkpad P71;Notebook;17,3;8;Windows 10;3,40;2999,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M620M
+Asus;FX553VD-DM627T (i5-7300HQ/8GB/1TB;Notebook;15,6;8;Windows 10;2,50;839,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,21;1599,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;1,60;Core i5 8250U;128;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Latitude 5580;Notebook;15,6;4;Windows 10;1,93;959,00;Padrão;1366;768;Não;Não;Não;Intel;2,60;Core i5 7300U;500;0;HDD;Não;Intel;HD Graphics 620
+Fujitsu;Lifebook A557;Notebook;15,6;8;Windows 10;2,20;739,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Windows 10;2,20;344,00;Full HD;1920;1080;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;500;0;HDD;Não;Intel;HD Graphics 505
+Lenovo;ThinkPad L470;Notebook;14,0;4;Windows 10;2,02;990,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;ZBook 17;Workstation;17,3;8;Windows 10;3,14;1860,99;Padrão;1600;900;Não;Não;Não;Intel;2,80;Core i5 7440HQ;500;0;HDD;Não;Nvidia;Quadro M1200
+HP;14-am079na (N3710/8GB/2TB/W10);Notebook;14,0;8;Windows 10;1,94;389,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;2048;0;HDD;Não;Intel;HD Graphics 405
+HP;15-cd005nv (A9-9420/6GB/256GB/Radeon;Notebook;15,6;6;Windows 10;1,95;649,00;Full HD;1920;1080;Não;Sim;Não;AMD;3,00;A9-Series A9-9420;256;0;SSD;Não;AMD;Radeon 530
+Lenovo;Thinkpad E570;Notebook;15,6;8;Windows 10;2,30;830,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;V330-15IKB (i5-8250U/4GB/500GB/FHD/W10);Notebook;15,6;4;Windows 10;2,05;685,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;500;0;HDD;Não;Intel;HD Graphics 620
+Mediacom;SmartBook 141;Notebook;14,0;4;Windows 10;1,40;249,00;Full HD;1920;1080;Não;Não;Não;Intel;1,44;Atom x5-Z8350;32;0;SSD;Não;Intel;HD Graphics
+Toshiba;Tecra X40-D-10H;Ultrabook;14,0;16;Windows 10;1,24;1865,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad Y910-17ISK;Gaming;17,3;32;Windows 10;4,60;2663,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+MSI;GT73VR Titan;Gaming;17,3;16;Windows 10;4,14;2729,00;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HK;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Dell;Inspiron 3567;Notebook;15,6;8;Linux;2,20;749,01;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R5 M430
+Mediacom;SmartBook Edge;Notebook;14,0;4;Windows 10;1,45;389,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,10;Celeron Quad Core N3450;32;0;SSD;Não;Intel;HD Graphics 500
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;1008,52;Padrão;1366;768;Não;Não;Não;Intel;2,60;Core i5 7300U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 430;Notebook;13,3;4;Windows 10;1,49;719,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 5580;Notebook;15,6;16;Windows 10;1,93;1537,39;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Chromebook 11;Netbook;11,6;4;Chrome OS;1,26;295,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;16;0;Flash Storage;Não;Intel;HD Graphics 400
+MSI;GT80S 6QE;Gaming;17,3;16;Windows 10;4,50;2349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 6820HK;128;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+HP;Omen 17-AN010nv;Gaming;17,3;16;Windows 10;3,78;1498,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;Thinkpad T460s;Ultrabook;14,0;12;Windows 10;1,40;1673,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Ideapad 320-15IKBR;Notebook;15,6;12;Windows 10;2,20;609,00;Padrão;1366;768;Sim;Não;Não;Intel;1,80;Core i7 8550U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;ROG Strix;Gaming;17,3;8;Windows 10;2,73;1770,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Asus;TP501UA-CJ131T (i5-7200U/8GB/1TB/W10);Conversível 2 em 1;15,6;8;Windows 10;2,20;739,00;Padrão;1366;768;Sim;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15ABR;Notebook;15,6;12;Windows 10;2,20;949,00;Full HD;1920;1080;Não;Não;Não;AMD;3,60;A12-Series 9720P;512;0;SSD;Não;AMD;Radeon 530
+Dell;Inspiron 3179;Conversível 2 em 1;11,6;4;Windows 10;1,39;603,00;Padrão;1366;768;Sim;Não;Não;Intel;1,00;Core M 7Y30;128;0;SSD;Não;Intel;HD Graphics 615
+Samsung;Notebook Odyssey;Notebook;15,6;16;Windows 10;2,50;1699,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;V320-17ISK (i3-6006U/4GB/500GB/FHD/No;Notebook;17,3;4;Sem SO;2,80;529,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 110-15ISK;Notebook;15,6;8;Windows 10;2,29;459,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;2025,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad T470p;Notebook;14,0;8;Windows 10;1,70;1474,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Intel;HD Graphics 630
+Dell;Latitude 5289;Conversível 2 em 1;12,5;8;Windows 10;1,34;1670,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Precision 3520;Workstation;15,6;8;Windows 10;2,06;1763,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M620
+HP;EliteBook 850;Notebook;15,6;8;Windows 10;1,84;1219,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,10;668,48;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Acer;Aspire 1;Notebook;14,0;4;Windows 10;1,60;329,00;Full HD;1920;1080;Não;Não;Não;Intel;1,10;Celeron Quad Core N3450;32;0;Flash Storage;Não;Intel;HD Graphics 500
+MSI;Laptop MSI;Gaming;17,3;16;Windows 10;4,14;2199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 6820HK;128;1024;SSD;HDD;Nvidia;GeForce GTX 970M
+Dell;Vostro 3568;Notebook;15,6;4;Linux;2,18;465,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M420
+MSI;GS63VR 7RF;Gaming;15,6;16;Windows 10;1,80;2299,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;2048;SSD;HDD;Nvidia;GeForce GTX 1060
+Toshiba;Tecra Z50-C-144;Notebook;15,6;8;Windows 10;2,20;1399,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 310-15IKB;Notebook;15,6;6;Windows 10;2,40;564,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;Yoga 720-15IKB;Conversível 2 em 1;15,6;8;Windows 10;2,00;1299,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Intel;HD Graphics 630
+Acer;Swift SF114-31-P5HY;Notebook;14,0;4;Windows 10;1,60;349,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;128;0;Flash Storage;Não;Intel;HD Graphics 405
+Lenovo;Thinkpad P51;Notebook;15,6;32;Windows 10;2,50;4899,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;3,10;Xeon E3-1535M v6;1024;0;SSD;Não;Nvidia;Quadro M2200M
+Dell;Inspiron 7559;Gaming;15,6;16;Windows 10;2,59;879,01;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 960<U+039C>
+Dell;Vostro 3568;Notebook;15,6;4;Linux;2,18;443,90;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 3567;Notebook;15,6;4;Linux;2,25;359,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Dell;Latitude 5580;Notebook;15,6;4;Linux;1,93;869,00;Padrão;1366;768;Não;Não;Não;Intel;2,60;Core i5 7300U;500;0;HDD;Não;Intel;HD Graphics 620
+Asus;FX753VD-GC007T (i7-7700HQ/8GB/1TB;Gaming;17,3;8;Windows 10;3,00;1168,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Vostro 3568;Notebook;15,6;4;Linux;2,18;569,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;AMD;Radeon R5 M420
+HP;EliteBook 850;Ultrabook;15,6;8;Windows 10;1,84;1389,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+MSI;GT62VR 7RE;Gaming;15,6;16;Windows 10;2,94;2267,86;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Acer;CB5-132T-C9KK (N3160/4GB/32GB/Chrome;Conversível 2 em 1;11,6;4;Chrome OS;1,25;379,00;Padrão;1366;768;Sim;Sim;Não;Intel;1,60;Celeron Quad Core N3160;32;0;Flash Storage;Não;Intel;HD Graphics 400
+HP;ProBook 650;Notebook;14,0;8;Windows 10;2,31;1124,00;Padrão;1366;768;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad T470;Notebook;14,0;8;Windows 7;1,65;1465,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5570;Notebook;15,6;4;Windows 10;2,20;776,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;AMD;Radeon 530
+Fujitsu;LifeBook A557;Notebook;15,6;8;Windows 10;2,20;799,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 850;Notebook;15,6;4;Windows 7;1,88;932,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15IKB;Notebook;15,6;8;Windows 10;2,20;899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Mediacom;SmartBook 140;Notebook;14,0;2;Windows 10;1,40;239,00;Full HD;1920;1080;Não;Não;Não;Intel;1,44;Atom x5-Z8350;32;0;Flash Storage;Não;Intel;HD Graphics
+Lenovo;IdeaPad 320-15IKBN;Notebook;15,6;4;Sem SO;2,20;468,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Asus;Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10);Conversível 2 em 1;13,3;6;Windows 10;1,50;639,01;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;XPS 15;Notebook;15,6;8;Windows 10;2,00;1820,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Asus;ZenBook 3;Ultrabook;14,0;16;Windows 10;1,10;1900,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7567;Gaming;15,6;16;Windows 10;2,62;1479,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;V330-15IKB (i5-8250U/4GB/256GB/FHD/W10);Notebook;15,6;4;Windows 10;1,80;829,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;Ideapad 320-15ISK;Notebook;15,6;4;Windows 10;2,20;579,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 920MX 
+Asus;X541NA-GO414T (N3350/8GB/1TB/W10);Notebook;15,6;8;Windows 10;2,00;399,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Asus;VivoBook Pro;Notebook;15,6;8;Windows 10;1,99;906,62;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,23;1869,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;IdeaPad 100S-14IBR;Notebook;14,0;2;Windows 10;1,42;249,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Lenovo;Thinkpad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;1757,42;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 15;Notebook;15,6;16;Windows 10;2,06;2399,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;1109,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050M
+HP;17-AK091ND (A9-9420/8GB/1TB/W10);Notebook;17,0;8;Windows 10;2,60;520,90;Padrão;1600;900;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon R5
+Lenovo;ThinkPad X1;Ultrabook;14,0;16;Windows 10;1,14;2450,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;ROG GL553VE-FY022;Gaming;15,6;8;Sem SO;2,50;1169,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050 Ti
+Acer;Extensa EX2540;Notebook;15,6;4;Windows 10;2,40;450,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 100S-14IBR;Notebook;14,0;4;Windows 10;1,43;274,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics
+Acer;Swift 3;Ultrabook;14,0;8;Windows 10;1,80;919,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;Graphics 620
+Razer;Blade Pro;Gaming;14,0;16;Windows 10;1,95;2599,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1060
+Toshiba;Portege Z30-C-16J;Notebook;13,3;8;Windows 10;1,20;1213,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Thinkpad X270;Ultrabook;12,5;8;Windows 10;1,36;1584,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ROG G701VI;Gaming;17,3;32;Windows 10;3,80;2799,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;512;0;SSD;Não;Nvidia;GeForce GTX 1080
+Acer;A715-71G-59DH (i5-7300HQ/8GB/1TB/GeForce;Gaming;15,6;8;Linux;2,40;709,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,20;1449,90;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+MSI;GL62M 7REX;Gaming;15,6;8;Windows 10;2,20;1191,80;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;364,90;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Toshiba;Tecra A50-D-11M;Notebook;15,6;8;Windows 10;2,00;1064,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;919,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;0;SSD;Não;AMD;Radeon 530
+Dell;Inspiron 5570;Notebook;15,6;16;Windows 10;2,20;1135,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;256;2048;SSD;HDD;AMD;Radeon 530
+Lenovo;IdeaPad Y700-15ISK;Gaming;15,6;8;Windows 10;3,31;1196,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,42;3147,37;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Dell;Latitude E7470;Notebook;14,0;8;Windows 10;1,56;1229,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Ideapad 320-15IAP;Notebook;15,6;4;Windows 10;2,20;419,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;500;0;HDD;Não;Intel;HD Graphics 500
+Lenovo;IdeaPad 320-15ISK;Notebook;15,6;4;Windows 10;2,20;535,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;15-ay047nv (i3-6006U/6GB/1TB/Radeon;Notebook;15,6;6;Windows 10;2,04;539,00;Padrão;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+MSI;GP72VR Leopard;Gaming;17,3;8;Windows 10;2,70;1486,77;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,10;498,00;Padrão;1366;768;Não;Não;Não;Intel;2,10;Core i3 6100U;128;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude 3580;Notebook;15,6;8;Windows 10;2,06;955,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;15-bs012nv (i7-7500U/8GB/1TB/Radeon;Notebook;15,6;8;Windows 10;2,10;745,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon 530
+Toshiba;Tecra Z50-D-10E;Notebook;15,6;8;Windows 10;2,00;1258,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire 3;Notebook;15,6;4;Linux;2,10;412,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+Microsoft;Surface Laptop;Ultrabook;13,5;8;Windows 10 S;1252,00;1867,85;Padrão;2256;1504;Sim;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;Iris Plus Graphics 640
+Lenovo;V310-15ISK (i5-7200U/8GB/1TB;Notebook;15,6;8;Windows 10;1,90;817,95;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;AMD;Radeon R5 M430
+Lenovo;Yoga 720-13IKB;Conversível 2 em 1;13,3;8;Windows 10;1,30;1034,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15AST;Notebook;15,6;4;Windows 10;2,20;349,00;Padrão;1366;768;Não;Não;Não;AMD;2,20;E-Series E2-9000;128;0;SSD;Não;AMD;Radeon R2 Graphics
+HP;Pavilion X360;Conversível 2 em 1;14,0;4;Windows 10;1,63;699,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Nvidia;GeForce 940MX
+MSI;GP62 7RDX;Gaming;15,6;16;Windows 10;2,40;1294,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Asus;Zenbook 3;Ultrabook;14,0;8;Windows 10;1,10;1135,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Chromebook X360;Conversível 2 em 1;11,6;8;Chrome OS;1,40;495,00;Padrão;1366;768;Sim;Não;Não;Intel;1,10;Celeron Dual Core N3350;64;0;Flash Storage;Não;Intel;HD Graphics 500
+LG;Gram 15Z975;Ultrabook;15,6;8;Windows 10;1,09;2299,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire VX5-591G;Gaming;15,6;16;Windows 10;2,50;1299,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+MSI;GV62M 7RD;Gaming;15,6;8;Windows 10;2,20;997,90;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Asus;L502NA-GO052T (N3350/4GB/128GB/W10);Notebook;15,6;4;Windows 10;1,86;419,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;128;0;SSD;Não;Intel;HD Graphics 500
+Dell;Alienware 15;Gaming;15,6;16;Windows 10;3,21;2051,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;17-bs000nv I3;Notebook;17,3;4;Windows 10;2,50;699,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;AMD;Radeon R5 520
+Lenovo;Yoga 730;Conversível 2 em 1;13,3;8;Windows 10;1,19;1499,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;Alienware 15;Gaming;15,6;16;Windows 10;3,49;2813,75;Full HD;1920;1080;Não;Não;Não;Intel;2,90;Core i7 7820HK;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;612,61;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;AMD;Radeon 520
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,20;545,67;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+HP;17-Y002nv (A10-9600P/6GB/2TB/Radeon;Notebook;17,3;6;Windows 10;2,65;569,00;Full HD;1920;1080;Não;Sim;Não;AMD;2,40;A10-Series 9600P;2048;0;HDD;Não;AMD;Radeon R7 M440
+Lenovo;V110-15ISK (3855U/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,10;318,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core 3855U;500;0;HDD;Não;Intel;HD Graphics 510
+Acer;Chromebook 14;Notebook;14,0;4;Chrome OS;1,45;375,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core 3855U;32;0;Flash Storage;Não;Intel;HD Graphics 510
+Lenovo;IdeaPad 520s-14IKB;Notebook;14,0;4;Windows 10;1,70;699,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ZBook 17;Workstation;17,3;8;Windows 10;3,14;1907,99;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;500;0;HDD;Não;Nvidia;Quadro M1200
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;8;Windows 10;1,42;2590,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Satellite Pro;Notebook;13,3;8;Windows 10;1,50;973,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;TravelMate B117-M;Netbook;11,6;4;Windows 10;1,40;269,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3050;32;0;Flash Storage;Não;Intel;HD Graphics
+Lenovo;Yoga 910-13IKB;Conversível 2 em 1;14,0;16;Windows 10;1,38;1749,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;Chromebook Flip;Conversível 2 em 1;12,5;4;Chrome OS;1,20;669,00;Full HD;1920;1080;Sim;Não;Não;Intel;0,90;Core M M3-6Y30;64;0;Flash Storage;Não;Intel;HD Graphics 515
+Toshiba;Portege Z30T-C-133;Ultrabook;13,3;16;Windows 10;1,36;1877,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+HP;15-bs011nv (i7-7500U/4GB/500GB/Radeon;Notebook;15,6;4;Windows 10;2,10;689,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;500;0;HDD;Não;AMD;Radeon 530
+Dell;Inspiron 5577;Gaming;15,6;8;Windows 10;2,56;819,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Lenovo;IdeaPad 320-15AST;Notebook;15,6;4;Windows 10;2,20;399,00;Full HD;1920;1080;Não;Não;Não;AMD;2,90;A9-Series 9420;256;0;SSD;Não;AMD;Radeon 530
+Lenovo;IdeaPad 320-15ABR;Notebook;15,6;8;Windows 10;2,20;429,00;Padrão;1366;768;Não;Não;Não;AMD;3,60;A12-Series 9720P;1024;0;HDD;Não;AMD;Radeon R7
+Lenovo;V310-15IKB (i5-7200U/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;2,10;621,45;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;1024;HDD;HDD;Intel;HD Graphics 620
+Lenovo;V310-15ISK (i3-6006U/4GB/500GB/No;Notebook;15,6;4;Sem SO;1,90;450,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Vostro 5568;Notebook;15,6;8;Windows 10;2,18;795,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Spin 5;Conversível 2 em 1;13,3;8;Windows 10;1,60;999,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;Intel;UHD Graphics 620
+Lenovo;ThinkPad P51s;Workstation;15,6;16;Windows 7;2,18;1855,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Nvidia;Quadro M520M
+Lenovo;Thinkpad T460p;Notebook;14,0;8;Windows 10;1,80;1191,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6300HQ;256;0;SSD;Não;Intel;HD Graphics 520
+HP;17-ak002nv (A10-9620P/6GB/2TB/Radeon;Notebook;17,3;6;Windows 10;2,71;655,01;Full HD;1920;1080;Não;Sim;Não;AMD;2,50;A10-Series 9620P;2048;0;HDD;Não;AMD;Radeon 530
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;1249,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Dell;Latitude 5480;Notebook;14,0;8;Linux;1,64;1089,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i5 7440HQ;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Vostro 5568;Notebook;15,6;8;Linux;1,98;726,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;VivoBook E403NA;Notebook;14,0;4;Windows 10;1,50;298,00;Full HD;1920;1080;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Dell;Latitude 5580;Notebook;15,6;16;Windows 10;1,93;1426,66;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad E470;Notebook;14,0;8;Windows 10;1,87;857,07;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 920MX
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;1179,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;110-15ACL (A6-7310/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,19;298,00;Padrão;1366;768;Não;Não;Não;AMD;2,00;A6-Series 7310;500;0;HDD;Não;AMD;Radeon R4
+Mediacom;Smartbook 142;Notebook;14,0;4;Windows 10;1,40;265,00;Full HD;1920;1200;Não;Sim;Não;Intel;1,92;Atom Z8350;32;0;HDD;Não;Intel;HD Graphics 400
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,63;1200,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Lenovo;ThinkPad X1;Ultrabook;14,0;8;Windows 10;1,17;1686,64;Quad HD+;2560;1440;Não;Sim;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+HP;Pavilion X360;Conversível 2 em 1;13,3;8;Windows 10;1,58;836,60;Padrão;1366;768;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad T470s;Ultrabook;14,0;8;Windows 10;1,32;1499,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,36;3659,40;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+MSI;GL72M 7REX;Gaming;17,3;8;Windows 10;2,70;1348,48;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;V310-15IKB (i5-7200U/4GB/1TB/No;Notebook;15,6;4;Sem SO;1,90;489,90;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5570;Notebook;15,6;8;Windows 10;2,20;719,00;Full HD;1920;1080;Não;Não;Não;Intel;1,60;Core i5 8250U;128;1024;SSD;HDD;AMD;Radeon 530
+Dell;Inspiron 5378;Conversível 2 em 1;13,3;4;Windows 10;1,71;649,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5567;Notebook;15,6;8;Linux;2,32;589,52;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R7 M445
+HP;15-BW037na (A9-9420/4GB/1TB/Radeon;Notebook;15,6;4;Windows 10;2,10;489,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon 520
+Acer;Predator 17;Gaming;17,3;16;Windows 10;4,20;1935,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 3567;Notebook;15,6;12;Windows 10;2,25;649,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;15-BW091ND (A9-9420/6GB/1TB;Notebook;15,6;6;Windows 10;2,10;650,00;Full HD;1920;1080;Não;Não;Não;AMD;3,00;A9-Series A9-9420;128;1024;SSD;HDD;AMD;Radeon 520
+Acer;Extensa EX2540-58KR;Notebook;15,6;4;Windows 10;2,40;559,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad 13;Notebook;13,3;8;Windows 10;1,44;960,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;V310-15IKB (i7-7500U/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;1,85;779,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;ZBook 15;Workstation;15,6;16;Windows 10;2,60;2419,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M2200
+Dell;Inspiron 5379;Conversível 2 em 1;13,3;8;Windows 10;1,55;659,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,60;Core i5 8250U;1024;0;HDD;Não;Intel;UHD Graphics 620
+MSI;GS63VR 7RF;Gaming;15,6;16;Windows 10;1,80;2094,48;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Acer;Aspire ES1-572;Notebook;15,6;4;Windows 10;2,40;410,80;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 7560;Notebook;15,6;8;Windows 10;2,00;1207,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+Dell;Vostro 3568;Notebook;15,6;8;Windows 10;2,00;665,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Intel;HD Graphics 520
+Toshiba;Tecra X40-D-10G;Notebook;14,0;8;Windows 10;1,25;1535,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Flex 5;Conversível 2 em 1;14,0;8;Windows 10;1,70;999,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad P51s;Workstation;15,6;16;Windows 10;2,50;3299,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7600U;1024;0;SSD;Não;Nvidia;Quadro M520M
+Acer;Chromebook 14;Notebook;14,0;2;Chrome OS;1,68;330,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Samsung;Notebook 9;Ultrabook;13,3;16;Windows 10;0,81;1649,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;250 G6;Notebook;15,6;8;Windows 10;1,86;539,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude 5480;Notebook;14,0;8;Windows 10;1,60;1126,71;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Zbook 17;Workstation;17,3;16;Windows 7;3,00;4389,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,90;Xeon E3-1535M v5;256;0;SSD;Não;Nvidia;Quadro M2000M
+Lenovo;N23 (N3060/4GB/128GB/W10);Netbook;11,6;4;Windows 10;1,40;475,00;Padrão;1366;768;Sim;Não;Não;Intel;1,60;Celeron Dual Core N3060;128;0;SSD;Não;Intel;HD Graphics 400
+HP;EliteBook 850;Notebook;15,6;8;Windows 10;1,84;1900,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;X550VX-XX015D (i5-6300HQ/4GB/1TB/GeForce;Notebook;15,6;4;Sem SO;2,45;579,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 950M
+Lenovo;Thinkpad T460;Ultrabook;14,0;4;Windows 10;1,70;1096,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;180;0;SSD;Não;Intel;HD Graphics 520
+Asus;Pro P2540UA-XO0192R;Notebook;15,6;4;Windows 10;2,37;849,90;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Yoga 900-13ISK;Conversível 2 em 1;13,3;8;Windows 10;1,30;1199,00;Quad HD+;3200;1800;Sim;Sim;Não;Intel;1,80;Core i5 6260U;256;0;SSD;Não;Intel;HD Graphics 540
+HP;15-cb003na (i5-7300HQ/8GB/1TB;Notebook;15,6;8;Windows 10;2,20;1099,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;ZBook 15;Workstation;15,6;8;Windows 7;2,59;1561,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;0;SSD;Não;Nvidia;Quadro M1000M
+Dell;Alienware 17;Gaming;15,6;16;Windows 10;4,42;2868,99;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;599,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;1048,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Latitude 7280;Ultrabook;12,5;16;Windows 10;1,18;1859,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+Google;Pixelbook (Core;Ultrabook;12,3;8;Chrome OS;1,10;1559,00;Padrão;2400;1600;Sim;Não;Não;Intel;1,20;Core i5 7Y57;256;0;SSD;Não;Intel;HD Graphics 615
+Asus;Zenbook UX330UA-AH5Q;Ultrabook;13,3;8;Windows 10;1,20;1129,00;Quad HD+;3200;1800;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 3380;Notebook;13,3;4;Windows 10;1,65;849,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Acer;TravelMate P238-M;Notebook;13,3;4;Windows 10;1,60;655,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;X751NV-TY001 (N4200/4GB/1TB/GeForce;Notebook;17,3;4;Windows 10;2,80;470,34;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Dell;Inspiron 7559;Gaming;15,6;16;Windows 10;2,72;1099,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Samsung;Notebook 9;Ultrabook;13,3;8;Windows 10;1,31;1599,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire A315-31;Notebook;15,6;4;Linux;2,10;298,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+Dell;Inspiron 5567;Notebook;15,6;16;Windows 10;2,30;1181,27;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R7 M445
+Samsung;Notebook 9;Conversível 2 em 1;15,0;16;Windows 10;1,71;1799,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon 540
+Toshiba;Tecra A40-C-1E5;Notebook;14,0;4;Windows 10;1,75;1020,00;Padrão;1366;768;Não;Sim;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,62;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+HP;EliteBook 820;Ultrabook;12,5;4;Windows 10;1,26;1244,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;Q524UQ-BHI7T15 (i7-7500U/12GB/2TB/GeForce;Conversível 2 em 1;15,6;12;Windows 10;2,30;839,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;2048;0;HDD;Não;Nvidia;GeForce 940MX
+Lenovo;Thinkpad P50;Notebook;15,6;16;Windows 7;2,50;2370,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,70;Core i7 6820HQ;512;0;SSD;Não;Nvidia;Quadro M2000M
+Acer;Swift 3;Notebook;14,0;4;Windows 10;1,80;636,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Razer;Blade Pro;Gaming;14,0;16;Windows 10;1,95;2899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1060
+Asus;Vivobook Max;Notebook;15,6;8;Windows 10;2,00;581,90;Padrão;1920;1080;Não;Não;Não;Intel;1,10;Pentium Dual Core N4200;128;0;SSD;Não;Intel;HD Graphics 505
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,42;3588,80;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;1024;SSD;HDD;Nvidia;GeForce GTX 1070M
+Asus;Rog G752VS-BA171T;Gaming;17,3;16;Windows 10;4,30;2350,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Toshiba;Tecra Z40-C-161;Ultrabook;14,0;16;Windows 10;1,47;1764,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Nvidia;GeForce 930M
+Lenovo;IdeaPad 110-15IBR;Notebook;15,6;8;Sem SO;2,20;329,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Quad Core N3710;1024;0;HDD;Não;Intel;HD Graphics 405
+Lenovo;ThinkPad T470s;Ultrabook;14,0;16;Windows 10;1,70;2299,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+MSI;GS43VR 7RE;Gaming;14,0;16;Windows 10;1,60;1891,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+MSI;GL62M (i5-7300HQ/8GB/1TB;Gaming;15,6;8;Windows 10;2,20;1089,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;4;Windows 10;2,40;999,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Acer;Predator G9-793;Gaming;17,3;16;Windows 10;4,20;2299,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,62;985,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Asus;FX502VM-DM560T (i7-7700HQ/8GB/1TB;Gaming;15,6;8;Windows 10;2,24;1339,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX1060
+Vero;K146 (N3350/4GB/32GB/W10);Notebook;14,0;4;Windows 10;1,22;202,90;Padrão;1920;1080;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;1970,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Yoga 510-15IKB;Conversível 2 em 1;15,6;8;Windows 10;2,08;959,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon R7 M460
+Apple;"MacBook 12""";Ultrabook;12,0;8;Mac OS X;0,92;1165,00;Padrão;2304;1440;Não;Sim;Sim;Intel;1,20;Core M;512;0;Flash Storage;Não;Intel;HD Graphics 5300
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;8;Windows 10;1,42;2330,00;Padrão;2560;1440;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;R417NA-RS01 (N3350/4GB/32GB/W10);Notebook;14,0;4;Windows 10;1,63;299,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Dell;Latitude 3580;Notebook;15,6;8;Windows 10;1,95;810,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Yoga 910-13IKB;Conversível 2 em 1;13,9;8;Windows 10;1,38;1349,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 5568;Notebook;15,6;8;Windows 10;2,00;739,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;256;0;SSD;Não;AMD;Radeon R5 M420X
+HP;ZBook 17;Workstation;15,6;8;Windows 10;3,14;2064,90;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;Quadro M2200
+Asus;Pro P2540UA-XS51;Notebook;15,6;8;Windows 10;2,37;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,29;1499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 15;Notebook;15,6;8;Windows 10;2,06;1749,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Dell;Latitude 3180;Netbook;11,6;4;Windows 10;1,63;744,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;128;0;SSD;Não;Intel;HD Graphics 505
+HP;EliteBook 820;Netbook;12,5;8;Windows 10;1,26;1389,00;Padrão;1366;768;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,10;780,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;15-ba043na (A12-9700P/8GB/2TB/W10);Notebook;15,6;8;Windows 10;2,04;629,00;Padrão;1366;768;Não;Não;Não;AMD;2,50;A12-Series 9700P;2048;0;HDD;Não;AMD;Radeon R7 Graphics
+Dell;Inspiron 7567;Gaming;15,6;16;Windows 10;2,62;1679,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+Lenovo;IdeaPad 310-15IKB;Notebook;15,6;4;Windows 10;2,40;609,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 920M
+HP;Omen 17-an012dx;Gaming;17,3;12;Windows 10;3,74;1749,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;AMD;Radeon RX 580
+MSI;GE72MVR 7RG;Gaming;17,3;16;Windows 10;2,90;2415,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Samsung;Notebook 9;Ultrabook;13,3;8;Windows 10;0,81;1499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 5568;Notebook;15,6;8;Windows 10;1,98;961,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce GT 940MX
+Dell;Vostro 3568;Notebook;15,6;8;Windows 10;2,18;789,81;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon R5 M420
+Lenovo;Thinkpad T470s;Ultrabook;14,0;8;Windows 10;1,32;1859,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Razer;Blade Stealth;Ultrabook;12,5;16;Windows 10;1,29;1799,00;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;2,50;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+HP;Chromebook 11;Netbook;11,6;4;Chrome OS;1,23;385,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;16;0;Flash Storage;Não;Intel;HD Graphics 400
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,36;2505,02;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Latitude 3480;Notebook;14,0;4;Windows 10;1,76;755,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;V110-15ISK (i3-6006U/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,10;489,90;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Toshiba;Tecra X40-D-10Z;Ultrabook;14,0;4;Windows 10;1,25;1090,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad X1;Ultrabook;14,0;8;Windows 10;1,13;2499,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+MSI;GL62M 7RD;Gaming;15,6;8;Windows 10;2,40;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;256;0;SSD;Não;Nvidia;GeForce GTX 1050
+Lenovo;ThinkPad X1;Ultrabook;14,0;8;Windows 10;1,13;1875,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;Flash Storage;Não;Intel;HD Graphics 620
+Toshiba;Satellite Pro;Notebook;14,0;4;Windows 10;1,75;499,00;Padrão;1366;768;Não;Não;Não;Intel;2,10;Pentium Dual Core 4405U;128;0;SSD;Não;Intel;HD Graphics 510
+Asus;ZenBook Flip;Conversível 2 em 1;13,3;8;Windows 10;1,10;1358,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 3480;Notebook;14,0;4;Windows 10;1,76;585,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Acer;Chromebook 11;Netbook;11,6;4;Chrome OS;1,35;355,00;Padrão;1366;768;Não;Sim;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Acer;Swift 3;Notebook;14,0;8;Windows 10;1,50;619,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+Razer;Blade Pro;Gaming;17,3;32;Windows 10;3,49;5499,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,90;Core i7 7820HK;512;0;SSD;Não;Nvidia;GeForce GTX 1080
+Lenovo;Thinkpad X1;Ultrabook;14,0;16;Windows 10;1,10;2099,00;Quad HD+;2560;1440;Não;Sim;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Intel;HD Graphics 520
+Asus;VivoBook Max;Notebook;15,6;4;Linux;2,10;519,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 920
+Lenovo;Thinkpad T460;Notebook;14,0;8;Windows 10;1,70;1186,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad T470s;Notebook;14,0;8;Windows 10;1,32;1650,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Alienware 15;Gaming;15,6;16;Windows 10;3,21;2774,63;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Asus;Rog GL702VS-BA023T;Gaming;17,3;16;Windows 10;2,90;2419,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Toshiba;Satellite Pro;Notebook;15,6;4;Windows 10;2,00;669,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;N42-20 Chromebook;Notebook;14,0;4;Chrome OS;1,50;325,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Quad Core N3160;16;0;Flash Storage;Não;Intel;HD Graphics 400
+Asus;R558UA-DM966T (i5-7200U/8GB/128GB/FHD/W10);Notebook;15,6;8;Windows 10;2,30;590,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;HDD;Não;Intel;HD Graphics 620
+Asus;Rog GL702VM-GC017T;Gaming;17,3;16;Windows 10;2,73;1799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,42;3072,89;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+HP;ProBook 470;Notebook;17,3;8;Windows 10;2,63;910,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Dell;Vostro 3568;Notebook;15,6;8;Windows 10;2,18;713,99;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 840;Ultrabook;14,0;8;Windows 7;1,54;1870,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;739,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;AMD;Radeon R5 M420
+HP;Chromebook X360;Conversível 2 em 1;11,6;4;Chrome OS;1,40;615,00;Padrão;1366;768;Sim;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Asus;ZenBook UX310UQ-GL026T;Ultrabook;13,3;8;Windows 10;1,45;1026,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6200U;512;0;SSD;Não;Nvidia;GeForce 940M
+HP;EliteBook x360;Conversível 2 em 1;13,3;8;Windows 10;1,28;2277,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 840;Ultrabook;14,0;8;Windows 10;1,54;1468,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;299,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;128;0;SSD;Não;Intel;HD Graphics 400
+Asus;Rog GL502VM-DS74;Gaming;15,6;16;Windows 10;2,10;1899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 5767;Notebook;17,3;8;Linux;2,83;865,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon R7 M445
+Lenovo;ThinkPad T470p;Ultrabook;14,0;8;Windows 10;1,96;1903,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;0;SSD;Não;Nvidia;GeForce GT 940MX
+Asus;K556UR-DM621T (i7-7500U/8GB/256GB/GeForce;Notebook;15,6;8;Windows 10;2,30;787,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce GTX 930MX
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;945,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Asus;X541NA (N4200/4GB/1TB/W10);Notebook;15,6;4;Windows 10;2,00;449,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+HP;EliteBook x360;Conversível 2 em 1;13,3;8;Windows 10;1,28;2559,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 5368;Notebook;13,3;8;Windows 10;1,62;649,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,30;Core i5 6200U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 110-15ISK;Notebook;15,6;4;Sem SO;2,20;469,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad E570;Notebook;15,6;8;Windows 10;2,30;850,66;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;EliteBook 850;Notebook;15,6;8;Windows 10;1,84;1349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;AMD;Radeon R7 M465
+Toshiba;Portege X30-D-10X;Notebook;13,3;4;Windows 10;1,05;1285,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,50;1017,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Dell;XPS 13;Ultrabook;13,3;16;Windows 10;1,29;2240,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,50;Core i7 7660U;512;0;SSD;Não;Intel;Iris Plus Graphics 640
+HP;Probook 450;Notebook;15,6;4;Windows 10;2,07;910,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Toshiba;Portégé Z30-C-188;Ultrabook;13,3;8;Windows 10;1,20;1095,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;1950,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10);Notebook;14,0;8;Windows 10;1,56;902,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Precision 3520;Workstation;15,6;8;Windows 10;2,23;1778,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;Quadro M620
+Lenovo;ThinkPad L570;Notebook;15,6;4;Windows 10;2,38;1055,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 110-15ISK;Notebook;15,6;4;Sem SO;2,20;479,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Toshiba;Tecra A50-D-11D;Notebook;15,6;8;Windows 10;2,00;1388,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Thinkpad 13;Notebook;13,3;4;Windows 10;1,44;735,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,40;Core i3 7100U;180;0;SSD;Não;Intel;HD Graphics 620
+Samsung;Notebook 9;Ultrabook;15,0;16;Windows 10;1,23;1849,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;Latitude 7280;Ultrabook;12,5;8;Windows 10;1,60;1690,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;X541NA-GO121 (N4200/4GB/1TB/Linux);Notebook;15,6;4;Linux;2,00;398,99;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+Xiaomi;Mi Notebook;Ultrabook;13,3;8;Windows 10;1,28;935,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;Vostro 5568;Notebook;15,6;4;Windows 10;2,18;912,50;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;Nvidia;GeForce 940MX
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,04;839,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook x360;Conversível 2 em 1;13,3;4;Windows 10;1,28;1700,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Pavilion x360;Conversível 2 em 1;15,6;4;Windows 10;2,30;684,80;Padrão;1366;768;Sim;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Asus;VivoBook L402NA;Notebook;14,1;4;Windows 10;1,65;348,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+Lenovo;IdeaPad 510-15ISK;Notebook;15,6;8;Windows 10;2,20;669,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i7 6500U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Dell;Inspiron 3552;Notebook;15,6;4;Windows 10;2,20;369,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;500;0;HDD;Não;Intel;HD Graphics
+HP;EliteBook x360;Conversível 2 em 1;13,3;4;Windows 10;1,28;1799,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 3568;Notebook;15,6;4;Linux;2,18;455,70;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M420X
+Asus;Rog GL753VD-GC082T;Gaming;17,3;12;Windows 10;2,20;1369,90;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Acer;Chromebook C731-C78G;Netbook;11,6;4;Chrome OS;1,25;297,00;Padrão;1366;768;Não;Sim;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Lenovo;IdeaPad 110-17ACL;Notebook;17,3;4;Windows 10;2,80;379,00;Padrão;1600;900;Não;Não;Não;AMD;2,20;A4-Series 7210;500;0;HDD;Não;AMD;Radeon R3
+HP;Probook 640;Notebook;14,0;4;Windows 10;1,95;1265,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+HP;Envy x360;Conversível 2 em 1;13,3;16;Windows 10;1,42;1399,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Samsung;Notebook 9;Ultrabook;15,0;8;Windows 10;1,17;1699,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad T470s;Ultrabook;14,0;8;Windows 10;1,32;1799,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+MSI;GS73VR Stealth;Gaming;17,3;16;Windows 10;2,43;2649,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;512;2048;SSD;HDD;Nvidia;GeForce GTX 1060
+Toshiba;Portege X30-D-10V;Notebook;13,3;8;Windows 10;1,05;1475,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7567;Gaming;15,6;8;Linux;2,62;929,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050Ti
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,04;900,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;614,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M420X
+Dell;Latitude 5580;Notebook;15,6;8;Windows 10;1,90;935,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i5 7300U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Conversível 2 em 1;13,3;8;Windows 10;1,24;2013,10;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,30;Core i7 7Y75;512;0;SSD;Não;Intel;HD Graphics 615
+Asus;G701VO-IH74K (i7-6820HK/32GB/2x;Gaming;17,3;32;Windows 10;3,58;1279,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;256;256;SSD;SSD;Nvidia;GeForce GTX 980M
+Dell;XPS 13;Conversível 2 em 1;13,3;16;Windows 10;1,22;1649,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,30;Core i7 7Y75;256;0;SSD;Não;Intel;HD Graphics 615
+Lenovo;ThinkPad X1;Ultrabook;14,0;8;Windows 10;1,13;2049,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;Flash Storage;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad T570;Notebook;15,6;8;Windows 10;1,95;1962,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;512;0;SSD;Não;Intel;HD Graphics 620
+LG;Gram 15Z970;Ultrabook;15,6;16;Windows 10;1,08;2099,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+HP;Elitebook 820;Netbook;12,5;8;Windows 10;1,26;1483,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Acer;Chromebook CB5-571-C1DZ;Notebook;15,6;4;Chrome OS;2,20;359,00;Full HD;1920;1080;Não;Sim;Não;Intel;1,50;Celeron Dual Core 3205U;16;0;Flash Storage;Não;Intel;HD Graphics
+Lenovo;IdeaPad Y700-15ISK;Notebook;15,6;8;Windows 10;2,60;789,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+LG;Gram 14Z970;Ultrabook;14,0;8;Windows 10;0,98;1899,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 5480;Notebook;14,0;8;Windows 10;1,60;1205,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i5 7440HQ;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Elitebook Folio;Ultrabook;12,5;8;Windows 10;1,09;3100,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;1,20;Core M 6Y75;240;0;SSD;Não;Intel;HD Graphics 515
+Lenovo;IdeaPad 510-15IKB;Notebook;15,6;6;Windows 10;2,20;789,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,04;1018,99;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Acer;Aspire E5-575;Notebook;15,6;4;Windows 10;2,40;499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad 13;Notebook;13,3;4;Windows 10;1,44;881,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620
+HP;Probook 430;Notebook;13,3;8;Windows 10;1,49;960,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+MSI;GE72VR 6RF;Gaming;17,3;16;Windows 10;2,70;1599,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Dell;Inspiron 7567;Gaming;15,6;16;Windows 10;2,60;1349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+MSI;GL62M 7RD;Gaming;15,6;8;Windows 10;2,20;1119,91;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;684,99;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R5 M420
+HP;EliteBook 850;Ultrabook;15,6;8;Windows 10;1,84;1296,99;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;AMD;Radeon R7 M365X
+HP;Envy 13-AB077cl;Ultrabook;13,3;8;Windows 10;1,39;1149,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Tecra Z50-C-140;Notebook;15,6;16;Windows 10;2,40;1975,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Nvidia;GeForce 930M
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;13,3;8;Windows 10;1,37;1825,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;512;0;SSD;Não;Intel;HD Graphics 620
+Dell;Latitude 3580;Notebook;15,6;4;Windows 10;1,95;729,90;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;Thinkpad X270;Ultrabook;12,5;8;Windows 10;1,36;1650,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Probook 650;Notebook;15,6;8;Windows 10;2,31;1165,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;708,06;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 640;Notebook;14,0;4;Windows 10;1,95;1149,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15IAP;Notebook;15,6;4;Windows 10;2,20;309,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;1024;0;HDD;Não;Intel;HD Graphics 505
+HP;EliteBook 820;Ultrabook;12,5;4;Windows 10;1,26;1579,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;288,90;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;1024;0;HDD;Não;Intel;HD Graphics 400
+Lenovo;Yoga 900-13ISK;Conversível 2 em 1;13,3;16;Windows 10;1,30;1799,00;Quad HD+;3200;1800;Sim;Sim;Não;Intel;2,20;Core i7 6560U;1024;0;SSD;Não;Intel;Iris Graphics 540
+Toshiba;Tecra Z40-C-12X;Notebook;14,0;4;Windows 10;1,47;1105,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 820;Netbook;12,5;8;Windows 10;1,26;1669,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;558,60;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+MSI;GP62M Leopard;Gaming;15,6;8;Windows 10;2,20;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Dell;Latitude 7480;Ultrabook;14,0;8;Windows 10;1,36;1639,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,36;2758,00;Padrão;2560;1440;Não;Não;Não;Intel;2,70;Core i7 6820HK;512;1024;SSD;HDD;Nvidia;GeForce GTX 1080
+HP;Omen 17-W006na;Gaming;17,3;8;Windows 10;2,75;1399,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 965M
+Asus;X751SV-TY001T (N3710/4GB/1TB/GeForce;Notebook;17,3;4;Windows 10;2,80;530,00;Padrão;1600;900;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Acer;TravelMate P259-G2;Notebook;15,6;4;Windows 10;2,23;619,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Toshiba;Tecra A50-C-1ZV;Notebook;15,6;8;Windows 10;2,20;1119,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Yoga 700-11ISK;Conversível 2 em 1;11,3;8;Windows 10;1,10;1299,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,20;Core M m7-6Y75;256;0;SSD;Não;Intel;HD Graphics 515
+Lenovo;IdeaPad Y700-15ACZ;Gaming;15,6;16;Windows 10;2,50;999,00;Full HD;1920;1080;Não;Sim;Não;AMD;2,10;FX 8800P;512;1024;SSD;HDD;AMD;Radeon R9 M385
+Dell;Latitude 7280;Ultrabook;12,5;8;Windows 10;1,36;1472,20;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics
+Lenovo;IdeaPad 310-15IKB;Notebook;15,6;8;Sem SO;2,20;685,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 920MX
+Dell;Insprion 5767;Notebook;17,3;4;Windows 10;2,36;659,00;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R7 M445
+Acer;Chromebook 14;Notebook;14,0;4;Chrome OS;1,68;349,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+HP;ZBook Studio;Workstation;15,6;8;Windows 10;2,00;2249,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HQ;8;0;SSD;Não;Nvidia;Quadro M1000M
+Dell;Latitude 7480;Ultrabook;14,0;8;Windows 10;1,36;1775,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7600U;256;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Portege Z30-C-1CW;Notebook;13,3;8;Windows 7;1,20;1460,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;Chromebook Flip;Conversível 2 em 1;12,5;8;Chrome OS;1,20;1159,00;Full HD;1920;1080;Não;Não;Não;Intel;1,20;Core M M7-6Y75;64;0;Flash Storage;Não;Intel;HD Graphics 515
+Lenovo;Thinkpad T460;Ultrabook;14,0;8;Windows 10;1,70;1488,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Alienware 17;Gaming;17,3;16;Windows 10;4,36;3154,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Dell;XPS 13;Conversível 2 em 1;13,3;8;Windows 10;1,24;1899,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,20;Core i5 7Y54;256;0;SSD;Não;Intel;HD Graphics 615
+HP;ProBook x360;Conversível 2 em 1;11,6;4;Windows 10;1,45;775,00;Padrão;1366;768;Sim;Não;Não;Intel;1,10;Pentium Quad Core N4200;256;0;SSD;Não;Intel;HD Graphics 505
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,30;1268,00;Quad HD+;3200;1800;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Acer;Chromebook C738T-C2EJ;Conversível 2 em 1;11,6;4;Chrome OS;1,25;389,00;Padrão;1366;768;Sim;Sim;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Toshiba;Portege Z30-C-16Z;Notebook;13,3;8;Windows 10;1,20;1535,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad X270;Ultrabook;12,5;8;Windows 10;1,36;1760,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i5 7300U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire F5-573G-510L;Notebook;15,6;12;Windows 10;2,40;1009,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;1024;SSD;HDD;Nvidia;GeForce GTX 950M
+Toshiba;Portege X20W-D-10V;Ultrabook;12,5;8;Windows 10;1,10;1790,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,04;846,50;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 930MX
+Dell;Inspiron 3567;Notebook;15,6;4;Linux;2,25;465,62;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Dell;Latitude 5580;Notebook;15,6;4;Windows 10;1,90;825,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,04;685,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,42;3149,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;IdeaPad 310-15IKB;Notebook;15,6;6;Windows 10;2,40;695,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 920MX
+Dell;XPS 13;Conversível 2 em 1;13,3;16;Windows 10;1,22;1899,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,30;Core i7 7Y75;512;0;SSD;Não;Intel;HD Graphics 615
+Dell;Latitude E7470;Ultrabook;14,0;8;Windows 10;1,50;1962,98;Padrão;2560;1440;Sim;Não;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Alienware 17;Gaming;17,3;32;Windows 10;4,42;2800,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Toshiba;Tecra A40-C-1DF;Notebook;14,0;8;Windows 10;1,95;1180,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;Rog Strix;Gaming;17,3;16;Windows 10;2,73;2049,90;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;Probook 450;Notebook;15,6;8;Windows 10;2,04;979,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i5 7200U;128;1024;SSD;HDD;Nvidia;GeForce 930MX
+Lenovo;ThinkPad T460;Notebook;14,0;4;Windows 7;1,70;1002,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;508;0;Hybrid;Não;Intel;HD Graphics 520
+Asus;Q534UX-BHI7T19 (i7-7500U/16GB/2TB;Conversível 2 em 1;15,6;16;Windows 10;2,30;1799,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;2048;SSD;HDD;Nvidia;GeForce GTX 950M
+HP;15-bs053od (i7-7500U/6GB/1TB/W10);Notebook;15,6;6;Windows 10;2,04;579,00;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Intel;HD Graphics 620
+Asus;Rog GL753VE-DS74;Gaming;17,3;16;Windows 10;2,99;1749,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Dell;Inspiron 7579;Conversível 2 em 1;15,6;12;Windows 10;2,19;1299,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Toshiba;Portege Z30-C-1CV;Notebook;13,3;4;Windows 7;1,20;1195,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 320-15ABR;Notebook;15,6;6;Windows 10;2,20;549,00;Full HD;1920;1080;Não;Não;Não;AMD;3,60;A12-Series 9720P;256;0;SSD;Não;AMD;Radeon 530
+Fujitsu;LifeBook A556;Notebook;15,6;4;Windows 10;2,30;649,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Toshiba;Tecra A40-C-1KF;Notebook;14,0;4;Windows 10;1,75;915,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,25;599,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;AMD;Radeon R5 M430
+HP;Probook 450;Notebook;15,6;8;Windows 10;2,04;806,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,50;1189,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,36;749,00;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon R7 M445
+Dell;Latitude 5480;Notebook;14,0;8;Windows 10;1,60;1119,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;128;0;SSD;Não;Intel;HD Graphics 620 
+HP;EliteBook Folio;Netbook;12,5;8;Windows 10;0,97;1908,00;Full HD;1920;1080;Não;Não;Não;Intel;1,20;Core M 6Y75;512;0;SSD;Não;Intel;HD Graphics 515
+HP;15-bs005nv (i3-6006U/4GB/1TB;Notebook;15,6;4;Windows 10;2,10;499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;128;1024;SSD;HDD;AMD;Radeon 520
+Lenovo;V110-15IAP (N3350/4GB/128GB/No;Notebook;15,6;4;Sem SO;1,90;270,62;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;128;0;SSD;Não;Intel;HD Graphics 500
+Lenovo;ThinkPad T560;Notebook;15,6;8;Windows 10;2,30;1349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5378;Conversível 2 em 1;13,3;8;Windows 10;1,68;889,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ZenBook UX310UA-FB485T;Notebook;13,3;8;Windows 10;1,40;1150,00;Quad HD+;3200;1800;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Spectre 13-V111dx;Ultrabook;13,3;8;Windows 10;1,11;1349,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire ES1-533;Notebook;15,6;4;Windows 10;2,40;380,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Pentium Quad Core N4200;500;0;HDD;Não;Intel;HD Graphics 505
+Asus;Rog GL553VE-DS74;Gaming;15,6;16;Windows 10;2,50;1799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+HP;EliteBook 840;Ultrabook;14,0;8;Windows 10;1,48;2089,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Acer;Nitro 5;Gaming;15,6;8;Windows 10;2,70;1260,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;ENVY -;Notebook;13,3;8;Windows 10;1,34;1189,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,18;547,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;128;0;SSD;Não;Intel;HD Graphics 620
+HP;Probook 440;Notebook;14,0;4;Windows 10;1,64;779,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Toshiba;Portege Z30-C-16H;Notebook;13,3;4;Windows 10;1,20;1195,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 840;Notebook;14,0;4;Windows 10;1,48;1099,99;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 640;Notebook;14,0;4;Windows 10;1,95;1205,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 1040;Ultrabook;14,0;8;Windows 7;1,43;1449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 440;Notebook;14,0;8;Windows 10;1,64;1049,26;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 930MX
+HP;Probook 440;Notebook;14,0;4;Windows 10;1,64;684,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,65;949,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7300HQ;1024;0;Hybrid;Não;Nvidia;GeForce GTX 1050
+HP;EliteBook 820;Ultrabook;12,5;4;Windows 10;1,26;1539,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;Elitebook 840;Notebook;14,0;4;Windows 10;1,48;1590,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 840;Ultrabook;14,0;8;Windows 10;1,54;1887,21;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;Probook 430;Notebook;13,3;4;Windows 10;1,49;800,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Toshiba;Portege A30-C-1CZ;Notebook;13,3;8;Windows 10;1,50;1210,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,04;769,99;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad P70;Notebook;17,3;16;Windows 7;2,40;2968,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,70;Core i7 6820HQ;512;0;SSD;Não;Nvidia;Quadro 3000M
+Toshiba;Tecra Z40-C-12Z;Notebook;14,0;8;Windows 10;1,47;1490,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 1040;Notebook;14,0;8;Windows 10;1,43;2229,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5568;Conversível 2 em 1;15,6;4;Windows 10;2,08;795,99;Full HD;1920;1080;Sim;Sim;Não;Intel;2,30;Core i3 6100U;1024;0;HDD;Não;Intel;HD Graphics 520
+Toshiba;Portégé Z30-C-16K;Ultrabook;13,3;8;Windows 10;1,20;1590,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;Spectre 13-V100nv;Notebook;13,3;8;Windows 10;1,11;1149,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 440;Notebook;14,0;8;Windows 10;1,64;1185,43;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 930MX
+Dell;Latitude E5570;Notebook;15,6;8;Windows 10;2,09;1046,44;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;Elitebook 820;Ultrabook;12,5;4;Windows 10;1,26;1559,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 650;Notebook;14,0;4;Windows 10;2,31;1189,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+HP;ProBook 640;Notebook;14,0;4;Windows 10;1,95;1060,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,29;1624,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Probook 470;Notebook;17,3;8;Windows 10;2,63;1080,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 930MX
+HP;ProBook 440;Notebook;14,0;4;Windows 10;1,64;973,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire 3;Notebook;15,6;6;Windows 10;2,10;409,00;Padrão;1366;768;Não;Não;Não;AMD;3,00;A9-Series 9420;1024;0;HDD;Não;AMD;Radeon R5
+MSI;GL72M 7RDX;Gaming;17,3;8;Windows 10;2,70;1191,80;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;Probook 640;Notebook;14,0;8;Windows 7;1,95;1195,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 850;Notebook;15,6;8;Windows 10;1,84;1228,99;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 820;Ultrabook;12,5;8;Windows 10;1,26;1349,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,04;742,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Toshiba;Tecra Z40-C-136;Ultrabook;14,0;8;Windows 10;1,47;1725,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude E5570;Notebook;15,6;8;Windows 7;2,09;1062,95;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 440;Notebook;14,0;8;Windows 10;1,64;1010,51;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;Yoga 500-15ISK;Conversível 2 em 1;15,6;4;Windows 10;1,80;847,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Vero;V142 (X5-Z8350/2GB/32GB/W10);Notebook;14,0;2;Windows 10;1,45;210,80;Padrão;1366;768;Não;Não;Não;Intel;1,44;Atom X5-Z8350;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Toshiba;Tecra A50-C-218;Notebook;15,6;16;Windows 10;2,40;1425,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Nvidia;GeForce 930M
+Lenovo;Thinkpad L560;Notebook;15,6;8;Windows 10;2,30;1049,60;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 840;Notebook;14,0;4;Windows 10;1,54;1000,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;EliteBook 850;Notebook;15,6;8;Windows 10;1,84;2103,34;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i5 6300U;256;500;SSD;HDD;Intel;HD Graphics 520
+HP;EliteBook 1040;Notebook;14,0;8;Windows 7;1,43;1469,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+MSI;GT72S Dominator;Gaming;17,3;16;Windows 10;3,78;1545,64;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;256;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+Lenovo;IdeaPad Y900-17ISK;Gaming;17,3;16;Windows 10;4,60;2289,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+Asus;Chromebook C202SA;Netbook;11,6;4;Chrome OS;1,20;287,90;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;16;0;Flash Storage;Não;Intel;HD Graphics 400
+Lenovo;ThinkPad X1;Notebook;14,0;16;Windows 7;1,10;2620,00;Padrão;2560;1440;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;Noteb Pav;Notebook;15,6;8;Windows 10;1,91;979,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Dell;Inspiron 5578;Conversível 2 em 1;15,6;8;Windows 10;2,30;1094,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,04;979,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;16;Windows 10;1,20;2254,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,70;Core i7 7500U;1024;0;SSD;Não;Intel;HD Graphics 620
+HP;ProBook 650;Notebook;15,6;4;Windows 10;2,31;705,15;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;250 G5;Notebook;15,6;4;Sem SO;1,96;499,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Acer;Aspire ES1-523;Notebook;15,6;8;Windows 10;2,40;449,00;Padrão;1366;768;Não;Não;Não;AMD;2,20;A8-Series 7410;1024;0;HDD;Não;AMD;Radeon R5
+Dell;Inspiron 7378;Conversível 2 em 1;13,3;12;Windows 10;1,60;1299,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+MSI;GT62VR 6RD;Gaming;15,6;16;Windows 10;2,94;1819,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;ProBook 450;Notebook;15,6;8;Windows 10;2,04;1070,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;Rog G752VL-GC088D;Gaming;17,3;16;Sem SO;4,00;998,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 965M
+Dell;Inspiron 3567;Notebook;15,6;4;Windows 10;2,25;559,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics
+Dell;Inspiron 5567;Notebook;15,6;16;Windows 10;2,32;989,99;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;2048;0;HDD;Não;AMD;Radeon R7 M445
+MSI;GS63VR 6RF;Gaming;15,6;16;Windows 10;1,80;1929,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,29;1458,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ROG G701VO;Gaming;17,3;64;Windows 10;3,58;3975,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;1024;0;SSD;Não;Nvidia;GeForce GTX 980 
+Dell;Inspiron 5368;Conversível 2 em 1;13,3;8;Windows 10;1,62;798,01;Full HD;1920;1080;Sim;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Alienware 15;Gaming;15,6;16;Windows 10;3,21;1329,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 970M
+Apple;"MacBook 12""";Ultrabook;12,0;8;Mac OS X;0,92;1300,00;Padrão;2304;1440;Não;Sim;Sim;Intel;1,10;Core M;256;0;Flash Storage;Não;Intel;HD Graphics 515
+Dell;Latitude 3570;Notebook;15,6;4;Windows 10;2,06;481,98;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;ProBook 650;Notebook;15,6;4;Windows 10;2,31;1199,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;EliteBook 820;Ultrabook;12,5;8;Windows 7;1,26;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 430;Notebook;13,3;8;Windows 10;1,49;1090,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad Yoga;Ultrabook;12,5;8;Windows 10;1,30;1713,49;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 300-17ISK;Notebook;17,3;8;Windows 10;3,00;659,00;Padrão;1600;900;Não;Não;Não;Intel;2,30;Core i5 6200U;1024;0;HDD;Não;AMD;Radeon R5 M330
+Lenovo;Ideapad 700-15ISK;Notebook;15,6;4;Windows 10;2,30;977,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 950M
+MSI;GT72VR Dominator;Gaming;17,3;16;Windows 10;3,78;2499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;V110-15ISK (i5-6200U/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,10;540,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;Probook 650;Notebook;15,6;4;Windows 7;2,31;940,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;Yoga 900S-12ISK;Ultrabook;12,5;8;Windows 10;0,99;1399,00;Padrão;2560;1440;Sim;Sim;Não;Intel;1,20;Core M 6Y75;512;0;SSD;Não;Intel;HD Graphics 515
+Lenovo;IdeaPad Y900-17ISK;Gaming;17,3;32;Windows 10;4,60;3240,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;512;1024;SSD;Hybrid;Nvidia;GeForce GTX 980M
+Lenovo;Yoga Book;Conversível 2 em 1;10,1;4;Windows 10;0,69;646,27;Padrão;1920;1200;Sim;Sim;Não;Intel;1,44;Atom x5-Z8550;64;0;Flash Storage;Não;Intel;HD Graphics 400
+HP;Spectre x360;Ultrabook;13,3;16;Windows 10;1,30;2049,00;4K Ultra HD;3840;2160;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 3568;Notebook;15,6;8;Windows 10;2,18;750,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;EliteBook 840;Notebook;14,0;4;Windows 7;1,54;1030,99;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+HP;ZBook 15u;Workstation;15,6;8;Windows 7;1,90;1495,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;AMD;FirePro W4190M
+Lenovo;ThinkPad T460;Notebook;14,0;8;Windows 7;1,70;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;180;0;SSD;Não;Intel;HD Graphics 520
+HP;Chromebook 13;Notebook;13,3;4;Chrome OS;1,29;615,00;Quad HD+;3200;1800;Não;Não;Não;Intel;1,50;Pentium Dual Core 4405Y;32;0;Flash Storage;Não;Intel;HD Graphics 515
+Acer;Aspire ES1-523;Notebook;15,6;4;Windows 10;2,40;387,00;Padrão;1366;768;Não;Não;Não;AMD;2,20;A8-Series 7410;500;0;HDD;Não;AMD;Radeon R5
+Dell;Inspiron 3552;Notebook;15,6;4;Linux;2,20;393,49;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3700;500;0;HDD;Não;Intel;HD Graphics
+HP;250 G6;Notebook;15,6;4;Sem SO;1,86;345,99;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+Asus;Rog GL702VM-GC354T;Gaming;17,3;8;Windows 10;2,70;1599,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 5370;Ultrabook;13,3;4;Windows 10;1,40;818,35;Full HD;1920;1080;Não;Sim;Não;Intel;1,60;Core i5 8250U;256;0;SSD;Não;AMD;Radeon 530
+HP;Elitebook 820;Netbook;12,5;4;Windows 7;2,40;1599,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Acer;Aspire F5-573G;Notebook;15,6;8;Windows 10;2,40;799,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;1024;SSD;HDD;Nvidia;GeForce GTX 950M
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,36;638,80;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R7 M445
+MSI;GS70 Stealth;Gaming;17,3;8;Windows 10;2,60;1599,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;0;SSD;Não;Nvidia;GeForce GTX 965M
+HP;250 G5;Notebook;15,6;4;Windows 10;1,96;500,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;1024;0;HDD;Não;Intel;HD Graphics 405
+Asus;G752VY-GC162T (i7-6700HQ/16GB/1TB;Gaming;17,3;16;Windows 10;4,30;2299,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+Dell;Latitude E5270;Ultrabook;12,5;4;Windows 7;1,50;1135,15;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Latitude E5270;Ultrabook;12,5;4;Windows 7;1,50;1166,97;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;128;0;SSD;Não;Intel;HD Graphics 520
+Acer;Chromebook 15;Notebook;15,6;4;Chrome OS;2,20;209,00;Padrão;1366;768;Não;Não;Não;Intel;1,50;Celeron Dual Core 3205U;16;0;SSD;Não;Intel;HD Graphics
+HP;ZBook 17;Workstation;17,3;8;Windows 7;3,00;2899,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;AMD;FirePro W6150M
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;16;Windows 10;2,40;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 1050 Ti
+Dell;Latitude E5270;Ultrabook;12,5;8;Windows 7;1,50;1413,10;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+MSI;GE72 Apache;Gaming;17,3;8;Windows 10;2,90;1511,19;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Lenovo;Yoga 500-15ISK;Conversível 2 em 1;15,6;4;Windows 10;2,10;867,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;15-bw011nv (A6-9220/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;2,10;398,00;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A6-Series 9220;1024;0;HDD;Não;AMD;Radeon R4
+Asus;Rog GL552VW-CN470T;Gaming;15,6;16;Windows 10;2,59;1339,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+HP;EliteBook 1030;Notebook;13,3;8;Windows 10;1,16;1699,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,10;Core M 6Y54;256;0;SSD;Não;Intel;HD Graphics 515
+Dell;Vostro 3559;Notebook;15,6;4;Windows 7;2,24;769,15;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;AMD;Radeon R5 M315
+Lenovo;V110-15ISK (i3-6006U/4GB/128GB/W10);Notebook;15,6;4;Windows 10;2,10;429,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;Intel;HD Graphics 520
+HP;Spectre Pro;Ultrabook;13,3;8;Windows 10;1,16;1969,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Yoga Book;Conversível 2 em 1;10,1;4;Android;0,69;549,00;Padrão;1920;1200;Sim;Sim;Não;Intel;1,44;Atom x5-Z8550;64;0;Flash Storage;Não;Intel;HD Graphics 400
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,23;1379,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i7 7560U;256;0;SSD;Não;Intel;Iris Plus Graphics 640
+Lenovo;IdeaPad Y900-17ISK;Gaming;17,3;16;Windows 10;4,60;2749,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 6820HK;256;1024;SSD;Hybrid;Nvidia;GeForce GTX 980M
+Razer;Blade Stealth;Ultrabook;12,5;8;Windows 10;1,25;1029,00;4K Ultra HD;3840;2160;Sim;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Toshiba;Portege X30-D-10K;Ultrabook;13,3;16;Windows 10;1,05;2226,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;Rog GL752VW-T4308T;Gaming;17,3;8;Windows 10;3,52;1312,49;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Vero;V131 (X5-Z8350/4GB/32GB/FHD/W10);Notebook;13,3;4;Windows 10;1,35;196,00;Full HD;1920;1080;Não;Não;Não;Intel;1,44;Atom X5-Z8350;32;0;Flash Storage;Não;Intel;HD Graphics 400
+HP;Spectre Pro;Notebook;13,3;8;Windows 10;1,16;1690,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;EliteBook 1040;Notebook;14,0;8;Windows 7;1,43;1513,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Latitude E5570;Notebook;15,6;4;Linux;2,09;523,63;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Asus;VivoBook Max;Notebook;15,6;4;Windows 10;2,00;435,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad Yoga;Conversível 2 em 1;14,0;8;Windows 10;1,80;1669,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Yoga Book;Conversível 2 em 1;10,1;4;Windows 10;0,69;479,00;Padrão;1920;1200;Sim;Sim;Não;Intel;1,44;Atom x5-Z8550;64;0;Flash Storage;Não;Intel;HD Graphics 400
+HP;EliteBook 820;Ultrabook;12,5;8;Windows 7;1,26;1895,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Sem SO;2,40;989,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;Omen -;Gaming;17,3;8;Windows 10;3,35;1129,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6300HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;15-bs078cl (i7-7500U/8GB/2TB/W10);Notebook;15,6;8;Windows 10;2,04;629,00;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;2048;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;ThinkPad P40;Conversível 2 em 1;14,0;8;Windows 7;1,80;2050,38;Full HD;1920;1080;Sim;Sim;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Nvidia;Quadro M500M
+Asus;L403NA-GA013TS (N3350/4GB/32GB/W10);Notebook;14,0;4;Windows 10;1,50;278,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;32;0;Flash Storage;Não;Intel;HD Graphics 500
+HP;250 G6;Ultrabook;15,6;8;Windows 10;1,84;752,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire E5-576G;Notebook;15,6;4;Windows 10;2,23;616,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Lenovo;IdeaPad 500-15ISK;Notebook;15,6;16;Windows 10;2,50;1099,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;1024;0;Hybrid;Não;AMD;Radeon R7 M360
+HP;ZBook 17;Workstation;17,3;8;Windows 7;3,00;3949,40;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;0;SSD;Não;Nvidia;Quadro M3000M
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,50;784,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;AMD;Radeon R7 M445
+MSI;GT72S Dominator;Gaming;17,3;16;Windows 10;3,78;2399,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 6820HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+HP;EliteBook 850;Ultrabook;15,6;8;Windows 7;1,88;2171,72;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;16;Windows 10;2,80;2440,00;Padrão;2560;1440;Sim;Sim;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Intel;HD Graphics 520
+MSI;GP62M 7RDX;Gaming;15,6;8;Windows 10;2,40;1142,80;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+HP;Spectre Pro;Conversível 2 em 1;13,3;8;Windows 10;1,48;1629,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ZBook 15;Workstation;15,6;8;Windows 7;2,59;2229,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;0;SSD;Não;Nvidia;Quadro M1000M
+HP;Spectre Pro;Conversível 2 em 1;13,3;8;Windows 10;1,48;1799,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ZBook Studio;Workstation;15,6;8;Windows 7;2,00;1899,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;0;SSD;Não;Nvidia;Quadro M1000M
+HP;EliteBook 820;Ultrabook;12,5;8;Windows 7;1,26;2296,95;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Vostro 5568;Notebook;15,6;8;Windows 10;2,18;1009,90;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 940MX
+HP;EliteBook 850;Notebook;15,6;8;Windows 7;1,88;1579,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;8;Windows 10;1,27;2339,00;Padrão;2560;1440;Sim;Sim;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;V110-15ISK (i3-6006U/4GB/1TB/No;Notebook;15,6;4;Sem SO;1,90;339,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+HP;15-BA015wm (E2-7110/4GB/500GB/W10);Notebook;15,6;4;Windows 10;1,86;297,00;Padrão;1366;768;Não;Não;Não;AMD;1,80;E-Series 7110;500;0;HDD;Não;AMD;Radeon R2 Graphics
+Lenovo;B51-80 (i5-6200U/8GB/1TB/Radeon;Notebook;15,6;8;Sem SO;2,32;599,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;1024;0;HDD;Não;AMD;Radeon R5 M330
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,62;1199,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050Ti
+Dell;XPS 15;Notebook;15,6;8;Windows 10;2,04;2250,68;4K Ultra HD;3840;2160;Sim;Sim;Não;Intel;2,30;Core i5 6300HQ;256;0;SSD;Não;Nvidia;GeForce 960M
+HP;15-bw002nv (A6-9220/4GB/256GB/Radeon;Notebook;15,6;4;Windows 10;1,91;478,89;Full HD;1920;1080;Não;Não;Não;AMD;2,50;A6-Series A6-9220;256;0;SSD;Não;AMD;Radeon 520
+MSI;GP72M 7REX;Gaming;17,3;16;Windows 10;2,70;1492,80;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;ThinkPad T460s;Ultrabook;14,0;12;Windows 7;1,40;2299,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;B51-80 (i5-6200U/8GB/1008GB/Radeon;Notebook;15,6;8;Windows 10;2,50;788,49;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;1024;0;Hybrid;Não;AMD;Radeon R5 M330
+HP;Spectre Pro;Conversível 2 em 1;13,3;8;Windows 10;1,48;2041,00;Padrão;2560;1440;Sim;Não;Não;Intel;2,60;Core i7 6600U;512;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad T460;Ultrabook;14,0;8;Windows 7;1,70;1499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+MSI;GS40 Phantom;Gaming;14,0;16;Windows 10;1,70;1769,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 970M
+HP;Pavilion 15-cb003nv;Gaming;15,6;8;Windows 10;2,62;899,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Lenovo;IdeaPad 310-15ISK;Notebook;15,6;8;Windows 10;2,20;459,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+HP;250 G4;Notebook;15,6;4;Sem SO;2,10;476,99;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 7567;Gaming;15,6;8;Windows 10;2,62;1498,00;4K Ultra HD;3840;2160;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Lenovo;ThinkPad T570;Notebook;15,6;8;Windows 10;1,95;1390,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;320-15ISK (i3-6006U/4GB/1TB/GeForce;Notebook;15,6;4;Windows 10;2,20;468,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 920MX 
+HP;Stream 14-AX000nv;Notebook;14,0;2;Windows 10;1,44;249,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+MSI;PL60 7RD;Gaming;15,6;8;Windows 10;2,20;839,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+HP;250 G5;Notebook;15,6;8;Windows 10;1,96;679,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+HP;ProBook 450;Notebook;15,6;16;Windows 10;2,10;1159,00;Full HD;1920;1080;Não;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Asus;X553SA-XX021T (N3050/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,20;369,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3050;500;0;HDD;Não;Intel;HD Graphics
+Lenovo;V110-15ISK (i5-6200U/4GB/500GB/No;Notebook;15,6;4;Sem SO;2,10;398,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 510-15IKB;Notebook;15,6;8;Sem SO;2,20;709,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Asus;UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10);Notebook;14,0;4;Windows 10;2,00;769,00;Full HD;1920;1080;Não;Não;Não;Intel;2,40;Core i3 7100U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;B51-80 (i7-6500U/4GB/1008GB/FHD/W7);Notebook;15,6;4;Windows 7;2,32;825,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;1024;0;Hybrid;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad Y700-15ISK;Gaming;15,6;16;Windows 10;3,31;1305,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;512;0;SSD;Não;Nvidia;GeForce GTX 960
+MSI;GS60 Ghost;Gaming;15,6;16;Windows 10;1,91;2153,37;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 970M
+HP;ProBook 450;Notebook;15,6;4;Windows 10;2,07;650,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i3 6100U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;ThinkPad X1;Conversível 2 em 1;14,0;8;Windows 10;1,36;1637,00;Padrão;2560;1440;Sim;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 310-15IKB;Ultrabook;15,6;6;Windows 10;1,54;831,00;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce 920M
+Dell;Vostro 5568;Notebook;15,6;8;Linux;1,98;895,01;Full HD;1920;1080;Não;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Nvidia;GeForce GT 940MX
+Acer;Aspire 3;Notebook;15,6;4;Windows 10;2,10;333,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Celeron Dual Core N3350;500;0;HDD;Não;Intel;HD Graphics 500
+HP;Pavilion 15-BC000nv;Notebook;15,6;6;Windows 10;2,18;799,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 960M
+Asus;Rog GL552VW-DM201T;Gaming;15,6;8;Windows 10;2591,00;909,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Dell;Inspiron 5578;Conversível 2 em 1;15,6;16;Windows 10;2,09;1179,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Acer;Aspire E5-576G;Notebook;15,6;4;Windows 10;2,23;691,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Nvidia;GeForce 940MX
+Dell;XPS 13;Ultrabook;13,3;8;Linux;1,23;1099,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Acer;Predator G9-793;Gaming;17,3;16;Windows 10;4,20;2599,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;Legion Y520-15IKBN;Gaming;15,6;8;Windows 10;2,40;819,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7300HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1050
+Samsung;Chromebook Plus;Conversível 2 em 1;12,3;4;Chrome OS;1,15;659,00;Padrão;2400;1600;Sim;Sim;Não;Samsung;2,00;Cortex A72&A53;32;0;Flash Storage;Não;ARM;Mali T860 MP4
+HP;250 G6;Notebook;15,6;4;Windows 10;1,86;485,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Apple;"MacBook 12""";Ultrabook;12,0;8;Mac OS X;0,92;1163,00;Padrão;2304;1440;Não;Sim;Sim;Intel;1,10;Core M;256;0;Flash Storage;Não;Intel;HD Graphics 5300
+Dell;Inspiron 7378;Conversível 2 em 1;13,3;8;Windows 10;1,60;1199,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+HP;Pavilion Power;Notebook;15,6;12;Windows 10;2,21;1327,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;V110-15ISK (i3-6006U/4GB/1TB/Radeon;Notebook;15,6;4;Sem SO;1,90;368,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;AMD;Radeon R5 M430
+Asus;Rog G752VY-GC229T;Gaming;17,3;16;Windows 10;4,30;2150,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;512;1024;SSD;HDD;Nvidia;GeForce GTX 980M
+Acer;Aspire 3;Notebook;15,6;4;Linux;2,10;272,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+MSI;GS73VR 7RF;Gaming;17,3;16;Windows 10;2,43;2048,90;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 5567;Notebook;15,6;4;Windows 10;2,30;499,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;128;0;SSD;Não;AMD;Radeon R7 M440
+Lenovo;IdeaPad 310-15ISK;Notebook;15,6;8;Sem SO;2,20;629,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i7 6500U;500;0;HDD;Não;Nvidia;GeForce 920MX
+Dell;Inspiron 5579;Conversível 2 em 1;15,6;16;Windows 10;2,00;1285,00;Full HD;1920;1080;Sim;Não;Não;Intel;1,80;Core i7 8550U;512;0;SSD;Não;Intel;UHD Graphics 620
+Dell;XPS 13;Ultrabook;13,3;16;Windows 10;1,20;2680,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Asus;FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce;Gaming;15,6;8;Windows 10;2,20;1169,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 1060
+Dell;Inspiron 5567;Notebook;15,6;8;Windows 10;2,36;889,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;AMD;Radeon R7 M445
+HP;15-bs025nv (i5-7200U/8GB/256GB/W10);Notebook;15,6;8;Windows 10;1,91;579,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15AST;Notebook;15,6;4;Windows 10;2,20;299,00;Padrão;1366;768;Não;Não;Não;AMD;2,20;E-Series 9000;500;0;HDD;Não;AMD;Radeon R2 Graphics
+Acer;Aspire E5-774G;Notebook;17,3;8;Windows 10;3,30;629,00;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Asus;Rog Strix;Gaming;15,6;16;Windows 10;2,20;2449,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Apple;"MacBook 12""";Ultrabook;12,0;8;Mac OS X;0,92;1279,00;Padrão;2304;1440;Não;Sim;Sim;Intel;1,20;Core M;512;0;Flash Storage;Não;Intel;HD Graphics 515
+Asus;FX502VM-AS73 (i7-7700HQ/16GB/1TB;Notebook;15,6;16;Windows 10;2,20;1749,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+MSI;GS73VR Stealth;Gaming;17,3;16;Windows 10;2,43;1948,99;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Dell;Inspiron 7579;Conversível 2 em 1;15,6;8;Windows 10;2191,00;999,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Asus;ROG Strix;Gaming;17,3;16;Windows 10;2,90;1949,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Acer;C740-C9QX (3205U/2GB/32GB/Chrome;Netbook;11,6;2;Chrome OS;1,30;174,00;Padrão;1366;768;Não;Não;Não;Intel;1,50;Celeron Dual Core 3205U;32;0;SSD;Não;Intel;HD Graphics
+Acer;E5 774G;Notebook;17,3;4;Windows 10;3,30;598,00;Padrão;1600;900;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Nvidia;GeForce 940MX
+Lenovo;IdeaPad 320-17IKB;Notebook;17,3;8;Sem SO;2,80;539,00;Padrão;1600;900;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad Y700-15ISK;Gaming;15,6;8;Windows 10;2,60;1272,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960<U+039C>
+Acer;SP714-51 (i7-7Y75/8GB/256GB/FHD/W10);Conversível 2 em 1;14,0;8;Windows 10;1,20;1149,00;Full HD;1920;1080;Sim;Sim;Não;Intel;1,30;Core i7 7Y75;256;0;SSD;Não;Intel;HD Graphics 615
+Lenovo;Thinkpad T560;Notebook;15,6;8;Windows 10;2,30;1529,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6600U;256;0;SSD;Não;Intel;HD Graphics 520
+MSI;GP62MVR 6RF;Gaming;15,6;8;Windows 10;2,20;1476,11;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+HP;15-bw009nv (A12-9720P/6GB/1TB/Radeon;Notebook;15,6;6;Windows 10;2,10;529,00;Full HD;1920;1080;Não;Não;Não;AMD;2,70;A12-Series 9720P;1024;0;HDD;Não;AMD;Radeon 530
+Dell;Latitude E7270;Ultrabook;12,5;8;Windows 7;1,26;1713,37;Full HD;1920;1080;Sim;Não;Não;Intel;2,40;Core i5 6300U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 5578;Conversível 2 em 1;15,0;4;Windows 10;2,08;509,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,40;Core i3 7100U;500;0;HDD;Não;Intel;HD Graphics 620
+Asus;X540SA-RBPDN09 (N3710/4GB/1TB/W10);Notebook;15,6;4;Windows 10;2,65;309,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;1024;0;HDD;Não;Intel;HD Graphics 405
+Dell;XPS 13;Ultrabook;13,3;8;Windows 10;1,29;1477,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;2,70;Core i7 7500U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;Vostro 3568;Notebook;15,6;4;Linux;2,18;521,86;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;1024;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad Y700-15ISK;Gaming;15,6;16;Windows 10;2,60;1029,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+MSI;GL62M 7RDX;Gaming;15,6;8;Windows 10;2,20;1149,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 1050
+Lenovo;ThinkPad Yoga;Netbook;12,5;16;Windows 10;1,30;1650,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+Razer;Blade Pro;Gaming;14,0;16;Windows 10;1,95;3499,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;1024;0;SSD;Não;Nvidia;GeForce GTX 1060
+Dell;Inspiron 3567;Notebook;15,6;8;Windows 10;2,30;469,01;Padrão;1366;768;Sim;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+MSI;GE72VR Apache;Gaming;17,3;16;Windows 10;2,70;1598,00;Full HD;1920;1080;Não;Não;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1060
+Apple;MacBook Air;Ultrabook;11,6;4;Mac OS X;1,08;959,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Core i5;256;0;Flash Storage;Não;Intel;HD Graphics 6000
+HP;15-bs023nv (i3-6006U/4GB/1TB/FHD/W10);Notebook;15,6;4;Windows 10;2,10;478,00;Full HD;1920;1080;Não;Não;Não;Intel;2,00;Core i3 6006U;1024;0;HDD;Não;Intel;HD Graphics 520
+HP;EliteBook 840;Ultrabook;14,0;8;Windows 7;1,54;2198,19;Padrão;2560;1440;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Vostro 3559;Notebook;15,6;4;Windows 7;2,24;737,00;Padrão;1366;768;Não;Não;Não;Intel;2,30;Core i5 6200U;500;0;HDD;Não;Intel;HD Graphics 520
+MSI;GL62 6QF;Gaming;15,6;8;Windows 10;2,30;1169,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Lenovo;ThinkPad 13;Notebook;13,3;16;Windows 10;1,40;1499,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Intel;HD Graphics 620
+Lenovo;IdeaPad 320-15ABR;Notebook;15,6;6;Windows 10;2,20;597,57;Full HD;1920;1080;Não;Não;Não;AMD;3,60;A12-Series 9720P;256;0;SSD;Não;AMD;Radeon 530
+Asus;ZenBook UX310UA-WB71;Ultrabook;13,3;8;Windows 10;1,45;1280,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;256;0;SSD;Não;Intel;HD Graphics 520
+Acer;Aspire ES1-572;Notebook;15,6;4;Linux;2,40;361,80;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Dell;Inspiron 7779;Conversível 2 em 1;17,3;16;Windows 10;2,77;1799,00;Full HD;1920;1080;Sim;Não;Não;Intel;2,70;Core i7 7500U;512;0;SSD;Não;Nvidia;GeForce 940MX
+HP;EliteBook 840;Notebook;14,0;4;Windows 7;1,54;1099,99;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Asus;Rog GL553VE-FY052T;Gaming;15,6;16;Windows 10;2,50;1600,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,80;Core i7 7700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1050 Ti
+Dell;Latitude 5480;Notebook;14,0;4;Windows 10;1,60;875,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i5 7200U;500;0;HDD;Não;Intel;HD Graphics 620
+Asus;Rog GL502VS;Gaming;15,6;16;Windows 10;2,34;2325,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;256;1024;SSD;HDD;Nvidia;GeForce GTX 1070
+Lenovo;V510-15IKB (i5-7200U/8GB/256GB/FHD/No;Notebook;15,6;8;Sem SO;2,30;573,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,50;Core i5 7200U;256;0;SSD;Não;Intel;HD Graphics 620
+Dell;XPS 13;Conversível 2 em 1;13,3;8;Windows 10;1,24;1813,00;Quad HD+;3200;1800;Sim;Não;Não;Intel;1,20;Core i5 7Y54;256;0;SSD;Não;Intel;HD Graphics 615
+Dell;Inspiron 3552;Notebook;15,6;4;Linux;2,20;324,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3710;500;0;HDD;Não;Intel;HD Graphics
+HP;255 G6;Notebook;15,6;4;Windows 10;1,86;399,00;Padrão;1366;768;Não;Não;Não;AMD;2,50;A6-Series 9220;500;0;HDD;Não;AMD;Radeon R4 Graphics
+Lenovo;IdeaPad 310-15ISK;Notebook;15,6;6;Windows 10;2,40;569,00;Full HD;1920;1080;Não;Não;Não;Intel;2,30;Core i3 6100U;128;0;SSD;Não;Nvidia;GeForce 920MX
+Lenovo;ThinkPad L460;Notebook;14,0;8;Windows 10;1,90;1072,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,30;Core i5 6200U;256;0;SSD;Não;Intel;HD Graphics 520
+Dell;Inspiron 3552;Notebook;15,6;4;Windows 10;2,20;443,99;Padrão;1366;768;Não;Não;Não;Intel;1,60;Pentium Quad Core N3700;500;0;HDD;Não;Intel;HD Graphics
+Asus;X541NA-GO020T (N3350/4GB/1TB/W10);Notebook;15,6;4;Windows 10;2,00;339,00;Padrão;1366;768;Não;Não;Não;Intel;1,10;Celeron Dual Core N3350;1024;0;HDD;Não;Intel;HD Graphics 500
+Asus;Rog G752VT-GC073T;Gaming;17,3;16;Windows 10;4,00;1900,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 970M
+Dell;Vostro 3568;Notebook;15,6;4;Windows 10;2,29;490,00;Padrão;1366;768;Não;Não;Não;Intel;2,00;Core i3 6006U;500;0;HDD;Não;Intel;HD Graphics 520
+Lenovo;B51-80 (i7-6500U/8GB/1008GB/Radeon;Notebook;15,6;8;Windows 7;2,32;895,00;Full HD;1920;1080;Não;Não;Não;Intel;2,50;Core i7 6500U;1024;0;Hybrid;Não;AMD;Radeon R5 M330
+MSI;GE62 Apache;Gaming;15,6;8;Windows 10;2,40;1229,00;Full HD;1920;1080;Não;Não;Não;Intel;2,60;Core i7 6700HQ;128;1024;SSD;HDD;Nvidia;GeForce GTX 960M
+Lenovo;Yoga 500-14IBD;Conversível 2 em 1;14,0;4;Windows 10;1,80;833,01;Full HD;1920;1080;Sim;Não;Não;Intel;2,30;Core i5 6200U;128;0;SSD;Não;Intel;HD Graphics 520
+Asus;ZenBook UX305CA-UBM1;Ultrabook;13,3;8;Windows 10;1,20;729,00;Full HD;1920;1080;Não;Sim;Não;Intel;0,90;Core M 6Y30;512;0;SSD;Não;Intel;HD Graphics 515
+Dell;Inspiron 3567;Notebook;15,6;6;Windows 10;2,30;459,00;Padrão;1366;768;Não;Não;Não;Intel;2,40;Core i3 7100U;1024;0;HDD;Não;Intel;HD Graphics 620
+Acer;Aspire ES1-531;Notebook;15,6;4;Linux;2,40;289,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;500;0;HDD;Não;Intel;HD Graphics 400
+Dell;Inspiron 3552;Notebook;15,6;2;Windows 10;2,20;379,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3050;500;0;HDD;Não;Intel;HD Graphics
+Lenovo;IdeaPad Y700-15ISK;Notebook;15,6;8;Windows 10;2,60;899,00;Full HD;1920;1080;Não;Sim;Não;Intel;2,60;Core i7 6700HQ;1024;0;HDD;Não;Nvidia;GeForce GTX 960M
+HP;Pavilion 15-AW003nv;Notebook;15,6;6;Windows 10;2,04;549,99;Full HD;1920;1080;Não;Não;Não;AMD;2,90;A9-Series 9410;1024;0;Hybrid;Não;AMD;Radeon R7 M440
+Dell;Inspiron 3567;Notebook;15,6;8;Linux;2,30;805,99;Padrão;1366;768;Não;Não;Não;Intel;2,70;Core i7 7500U;1024;0;HDD;Não;AMD;Radeon R5 M430
+HP;Stream 11-Y000na;Netbook;11,6;2;Windows 10;1,17;209,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3060;32;0;Flash Storage;Não;Intel;HD Graphics 400
+Asus;X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce;Notebook;15,6;4;Windows 10;2,20;720,32;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i7 6500U;500;0;HDD;Não;Nvidia;GeForce 920M
+Lenovo;Yoga 500-14ISK;Conversível 2 em 1;14,0;4;Windows 10;1,80;638,00;Full HD;1920;1080;Sim;Sim;Não;Intel;2,50;Core i7 6500U;128;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;Yoga 900-13ISK;Conversível 2 em 1;13,3;16;Windows 10;1,30;1499,00;Quad HD+;3200;1800;Sim;Sim;Não;Intel;2,50;Core i7 6500U;512;0;SSD;Não;Intel;HD Graphics 520
+Lenovo;IdeaPad 100S-14IBR;Notebook;14,0;2;Windows 10;1,50;229,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3050;64;0;Flash Storage;Não;Intel;HD Graphics
+HP;15-AC110nv (i7-6500U/6GB/1TB/Radeon;Notebook;15,6;6;Windows 10;2,19;764,00;Padrão;1366;768;Não;Não;Não;Intel;2,50;Core i7 6500U;1024;0;HDD;Não;AMD;Radeon R5 M330
+Asus;X553SA-XX031T (N3050/4GB/500GB/W10);Notebook;15,6;4;Windows 10;2,20;369,00;Padrão;1366;768;Não;Não;Não;Intel;1,60;Celeron Dual Core N3050;500;0;HDD;Não;Intel;HD Graphics
